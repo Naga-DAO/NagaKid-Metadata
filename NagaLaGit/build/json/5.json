@@ -1,0 +1,31 @@
+{
+  "name": "Naga Kids #5",
+  "description": "Test1",
+  "image": "ipfs://QmQbfz3rrELpKPdczAujrTqjx8Vt5HPWPGMhWXNXXy7TA5/5.png",
+  "dna": "23a5f9fcf4391a307680f7464d03aa6636398bb4",
+  "edition": 5,
+  "date": 1655739736128,
+  "attributes": [
+    {
+      "trait_type": "5BG",
+      "value": "BG"
+    },
+    {
+      "trait_type": "4NAGA",
+      "value": "1"
+    },
+    {
+      "trait_type": "3body",
+      "value": "6"
+    },
+    {
+      "trait_type": "2head",
+      "value": "19"
+    },
+    {
+      "trait_type": "1mouse",
+      "value": "7"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

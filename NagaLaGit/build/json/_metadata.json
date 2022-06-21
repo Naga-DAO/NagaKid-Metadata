@@ -1,0 +1,312 @@
+[
+  {
+    "name": "Naga Kids #1",
+    "description": "Test1",
+    "image": "ipfs://QmQbfz3rrELpKPdczAujrTqjx8Vt5HPWPGMhWXNXXy7TA5/1.png",
+    "dna": "4fb0753604fcd430b3194fe42a52fb46ac791da5",
+    "edition": 1,
+    "date": 1655739735159,
+    "attributes": [
+      {
+        "trait_type": "5BG",
+        "value": "BG"
+      },
+      {
+        "trait_type": "4NAGA",
+        "value": "1"
+      },
+      {
+        "trait_type": "3body",
+        "value": "3"
+      },
+      {
+        "trait_type": "2head",
+        "value": "19"
+      },
+      {
+        "trait_type": "1mouse",
+        "value": "7"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Naga Kids #2",
+    "description": "Test1",
+    "image": "ipfs://QmQbfz3rrELpKPdczAujrTqjx8Vt5HPWPGMhWXNXXy7TA5/2.png",
+    "dna": "49cab52b2b32ebdcf6d5cf427d95e4f0ec5a2c33",
+    "edition": 2,
+    "date": 1655739735412,
+    "attributes": [
+      {
+        "trait_type": "5BG",
+        "value": "BG"
+      },
+      {
+        "trait_type": "4NAGA",
+        "value": "1"
+      },
+      {
+        "trait_type": "3body",
+        "value": "4"
+      },
+      {
+        "trait_type": "2head",
+        "value": "19"
+      },
+      {
+        "trait_type": "1mouse",
+        "value": "6"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Naga Kids #3",
+    "description": "Test1",
+    "image": "ipfs://QmQbfz3rrELpKPdczAujrTqjx8Vt5HPWPGMhWXNXXy7TA5/3.png",
+    "dna": "0d29ec0efb2c0844b97e65b85d476e6c3ecd406a",
+    "edition": 3,
+    "date": 1655739735654,
+    "attributes": [
+      {
+        "trait_type": "5BG",
+        "value": "BG"
+      },
+      {
+        "trait_type": "4NAGA",
+        "value": "1"
+      },
+      {
+        "trait_type": "3body",
+        "value": "7"
+      },
+      {
+        "trait_type": "2head",
+        "value": "19"
+      },
+      {
+        "trait_type": "1mouse",
+        "value": "6"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Naga Kids #4",
+    "description": "Test1",
+    "image": "ipfs://QmQbfz3rrELpKPdczAujrTqjx8Vt5HPWPGMhWXNXXy7TA5/4.png",
+    "dna": "72243001a24c34e0bac1f3a384860faf5f3dc16a",
+    "edition": 4,
+    "date": 1655739735891,
+    "attributes": [
+      {
+        "trait_type": "5BG",
+        "value": "BG"
+      },
+      {
+        "trait_type": "4NAGA",
+        "value": "1"
+      },
+      {
+        "trait_type": "3body",
+        "value": "5"
+      },
+      {
+        "trait_type": "2head",
+        "value": "19"
+      },
+      {
+        "trait_type": "1mouse",
+        "value": "6"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Naga Kids #5",
+    "description": "Test1",
+    "image": "ipfs://QmQbfz3rrELpKPdczAujrTqjx8Vt5HPWPGMhWXNXXy7TA5/5.png",
+    "dna": "23a5f9fcf4391a307680f7464d03aa6636398bb4",
+    "edition": 5,
+    "date": 1655739736128,
+    "attributes": [
+      {
+        "trait_type": "5BG",
+        "value": "BG"
+      },
+      {
+        "trait_type": "4NAGA",
+        "value": "1"
+      },
+      {
+        "trait_type": "3body",
+        "value": "6"
+      },
+      {
+        "trait_type": "2head",
+        "value": "19"
+      },
+      {
+        "trait_type": "1mouse",
+        "value": "7"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Naga Kids #6",
+    "description": "Test1",
+    "image": "ipfs://QmQbfz3rrELpKPdczAujrTqjx8Vt5HPWPGMhWXNXXy7TA5/6.png",
+    "dna": "c55e5b55a1504af2a9eff1d2a5f8e800e5729b64",
+    "edition": 6,
+    "date": 1655739736365,
+    "attributes": [
+      {
+        "trait_type": "5BG",
+        "value": "BG"
+      },
+      {
+        "trait_type": "4NAGA",
+        "value": "1"
+      },
+      {
+        "trait_type": "3body",
+        "value": "6"
+      },
+      {
+        "trait_type": "2head",
+        "value": "19"
+      },
+      {
+        "trait_type": "1mouse",
+        "value": "6"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Naga Kids #7",
+    "description": "Test1",
+    "image": "ipfs://QmQbfz3rrELpKPdczAujrTqjx8Vt5HPWPGMhWXNXXy7TA5/7.png",
+    "dna": "7ade52cb788eae92ef9c439a683edc9ca9f66216",
+    "edition": 7,
+    "date": 1655739736635,
+    "attributes": [
+      {
+        "trait_type": "5BG",
+        "value": "BG"
+      },
+      {
+        "trait_type": "4NAGA",
+        "value": "1"
+      },
+      {
+        "trait_type": "3body",
+        "value": "7"
+      },
+      {
+        "trait_type": "2head",
+        "value": "19"
+      },
+      {
+        "trait_type": "1mouse",
+        "value": "3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Naga Kids #8",
+    "description": "Test1",
+    "image": "ipfs://QmQbfz3rrELpKPdczAujrTqjx8Vt5HPWPGMhWXNXXy7TA5/8.png",
+    "dna": "86c89fb675d92f761e8d7a3d94a70adb617fcb17",
+    "edition": 8,
+    "date": 1655739736865,
+    "attributes": [
+      {
+        "trait_type": "5BG",
+        "value": "BG"
+      },
+      {
+        "trait_type": "4NAGA",
+        "value": "1"
+      },
+      {
+        "trait_type": "3body",
+        "value": "7"
+      },
+      {
+        "trait_type": "2head",
+        "value": "19"
+      },
+      {
+        "trait_type": "1mouse",
+        "value": "2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Naga Kids #9",
+    "description": "Test1",
+    "image": "ipfs://QmQbfz3rrELpKPdczAujrTqjx8Vt5HPWPGMhWXNXXy7TA5/9.png",
+    "dna": "fa93f7dd920fe312c3ff9d3822ffa6a561e5feb4",
+    "edition": 9,
+    "date": 1655739737096,
+    "attributes": [
+      {
+        "trait_type": "5BG",
+        "value": "BG"
+      },
+      {
+        "trait_type": "4NAGA",
+        "value": "1"
+      },
+      {
+        "trait_type": "3body",
+        "value": "7"
+      },
+      {
+        "trait_type": "2head",
+        "value": "19"
+      },
+      {
+        "trait_type": "1mouse",
+        "value": "4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Naga Kids #10",
+    "description": "Test1",
+    "image": "ipfs://QmQbfz3rrELpKPdczAujrTqjx8Vt5HPWPGMhWXNXXy7TA5/10.png",
+    "dna": "7e20949a9ffd39b35b0b138399ce21cd4c666087",
+    "edition": 10,
+    "date": 1655739737316,
+    "attributes": [
+      {
+        "trait_type": "5BG",
+        "value": "BG"
+      },
+      {
+        "trait_type": "4NAGA",
+        "value": "1"
+      },
+      {
+        "trait_type": "3body",
+        "value": "4"
+      },
+      {
+        "trait_type": "2head",
+        "value": "19"
+      },
+      {
+        "trait_type": "1mouse",
+        "value": "7"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]
