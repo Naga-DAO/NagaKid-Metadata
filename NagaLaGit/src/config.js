@@ -6,8 +6,8 @@ const network = NETWORK.eth;
 
 // General metadata for Ethereum
 const namePrefix = "Naga Kid";
-const description = "Test1";
-const baseUri = "ipfs://QmUoyF94YJKTKgNFwJgVRkZdQiHzPgPnpdmQ1PiXyMVP33"; //CID ipfs://uri
+const description = "Project Naga Kid";
+const baseUri = "ipfs://QmeyZe8MYBtgaEpDAvnYNRWNNN44rV88JezdGXaPfJqYtA"; //CID ipfs://uri
 
 const solanaMetadata = {
     symbol: "Naga Kid",
@@ -24,8 +24,8 @@ const solanaMetadata = {
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
     {
-        growEditionSizeTo: 100, // Taget 1111
-        layersOrder: [{ name: "Background" }, { name: "NagaKid" }, { name: "Body" }, { name: "Head" }, { name: "Mouse" }],
+        growEditionSizeTo: 10, // Taget 1111
+        layersOrder: [{ name: "Color" }, { name: "Background" }, { name: "NagaKid" }, { name: "Body" }, { name: "Head" }, { name: "Mouse" }],
     },
 ];
 

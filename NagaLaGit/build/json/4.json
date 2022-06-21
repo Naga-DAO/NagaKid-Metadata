@@ -1,30 +1,23 @@
 {
-  "name": "Naga Kids #4",
-  "description": "Test1",
-  "image": "ipfs://QmUoyF94YJKTKgNFwJgVRkZdQiHzPgPnpdmQ1PiXyMVP33/4.png",
-  "dna": "812fdcc78ea4c59947dc9b216e0c59bbba59c8e8",
+  "name": "Naga Kid #4",
+  "description": "Project Naga Kid",
+  "image": "ipfs://QmeyZe8MYBtgaEpDAvnYNRWNNN44rV88JezdGXaPfJqYtA/4.png",
   "edition": 4,
-  "external_url": "https://www.nagadaonft.com/",
   "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "BG"
-    },
-    {
-      "trait_type": "NagaKid",
-      "value": "1"
-    },
-    {
-      "trait_type": "Body",
-      "value": "3"
-    },
-    {
-      "trait_type": "Head",
-      "value": "4"
-    },
-    {
-      "trait_type": "Mouse",
-      "value": "2"
-    }
-  ]
+    [
+      {
+        "trait_type": "average color",
+        "value": "rgb(207,224,220)"
+      },
+      {
+        "trait_type": "What is this?",
+        "value": "NOT a Hot Dog"
+      },
+      {
+        "trait_type": "date",
+        "value": 1889
+      }
+    ]
+  ],
+  "external_url": "https://www.nagadaonft.com/"
 }

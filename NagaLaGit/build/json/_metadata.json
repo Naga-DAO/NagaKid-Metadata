@@ -1,0 +1,232 @@
+[
+  {
+    "name": "Naga Kid #1",
+    "description": "Project Naga Kid",
+    "image": "ipfs://QmeyZe8MYBtgaEpDAvnYNRWNNN44rV88JezdGXaPfJqYtA/1.png",
+    "edition": 1,
+    "attributes": [
+      [
+        {
+          "trait_type": "average color",
+          "value": "rgb(235,213,158)"
+        },
+        {
+          "trait_type": "What is this?",
+          "value": "NOT a Hot Dog"
+        },
+        {
+          "trait_type": "date",
+          "value": 1765
+        }
+      ]
+    ],
+    "external_url": "https://www.nagadaonft.com/"
+  },
+  {
+    "name": "Naga Kid #10",
+    "description": "Project Naga Kid",
+    "image": "ipfs://QmeyZe8MYBtgaEpDAvnYNRWNNN44rV88JezdGXaPfJqYtA/10.png",
+    "edition": 10,
+    "attributes": [
+      [
+        {
+          "trait_type": "average color",
+          "value": "rgb(198,178,160)"
+        },
+        {
+          "trait_type": "What is this?",
+          "value": "NOT a Hot Dog"
+        },
+        {
+          "trait_type": "date",
+          "value": 1664
+        }
+      ]
+    ],
+    "external_url": "https://www.nagadaonft.com/"
+  },
+  {
+    "name": "Naga Kid #2",
+    "description": "Project Naga Kid",
+    "image": "ipfs://QmeyZe8MYBtgaEpDAvnYNRWNNN44rV88JezdGXaPfJqYtA/2.png",
+    "edition": 2,
+    "attributes": [
+      [
+        {
+          "trait_type": "average color",
+          "value": "rgb(191,182,169)"
+        },
+        {
+          "trait_type": "What is this?",
+          "value": "NOT a Hot Dog"
+        },
+        {
+          "trait_type": "date",
+          "value": 1608
+        }
+      ]
+    ],
+    "external_url": "https://www.nagadaonft.com/"
+  },
+  {
+    "name": "Naga Kid #3",
+    "description": "Project Naga Kid",
+    "image": "ipfs://QmeyZe8MYBtgaEpDAvnYNRWNNN44rV88JezdGXaPfJqYtA/3.png",
+    "edition": 3,
+    "attributes": [
+      [
+        {
+          "trait_type": "average color",
+          "value": "rgb(201,175,202)"
+        },
+        {
+          "trait_type": "What is this?",
+          "value": "NOT a Hot Dog"
+        },
+        {
+          "trait_type": "date",
+          "value": 1800
+        }
+      ]
+    ],
+    "external_url": "https://www.nagadaonft.com/"
+  },
+  {
+    "name": "Naga Kid #4",
+    "description": "Project Naga Kid",
+    "image": "ipfs://QmeyZe8MYBtgaEpDAvnYNRWNNN44rV88JezdGXaPfJqYtA/4.png",
+    "edition": 4,
+    "attributes": [
+      [
+        {
+          "trait_type": "average color",
+          "value": "rgb(207,224,220)"
+        },
+        {
+          "trait_type": "What is this?",
+          "value": "NOT a Hot Dog"
+        },
+        {
+          "trait_type": "date",
+          "value": 1889
+        }
+      ]
+    ],
+    "external_url": "https://www.nagadaonft.com/"
+  },
+  {
+    "name": "Naga Kid #5",
+    "description": "Project Naga Kid",
+    "image": "ipfs://QmeyZe8MYBtgaEpDAvnYNRWNNN44rV88JezdGXaPfJqYtA/5.png",
+    "edition": 5,
+    "attributes": [
+      [
+        {
+          "trait_type": "average color",
+          "value": "rgb(198,219,218)"
+        },
+        {
+          "trait_type": "What is this?",
+          "value": "NOT a Hot Dog"
+        },
+        {
+          "trait_type": "date",
+          "value": 1512
+        }
+      ]
+    ],
+    "external_url": "https://www.nagadaonft.com/"
+  },
+  {
+    "name": "Naga Kid #6",
+    "description": "Project Naga Kid",
+    "image": "ipfs://QmeyZe8MYBtgaEpDAvnYNRWNNN44rV88JezdGXaPfJqYtA/6.png",
+    "edition": 6,
+    "attributes": [
+      [
+        {
+          "trait_type": "average color",
+          "value": "rgb(233,220,144)"
+        },
+        {
+          "trait_type": "What is this?",
+          "value": "NOT a Hot Dog"
+        },
+        {
+          "trait_type": "date",
+          "value": 1507
+        }
+      ]
+    ],
+    "external_url": "https://www.nagadaonft.com/"
+  },
+  {
+    "name": "Naga Kid #7",
+    "description": "Project Naga Kid",
+    "image": "ipfs://QmeyZe8MYBtgaEpDAvnYNRWNNN44rV88JezdGXaPfJqYtA/7.png",
+    "edition": 7,
+    "attributes": [
+      [
+        {
+          "trait_type": "average color",
+          "value": "rgb(242,217,153)"
+        },
+        {
+          "trait_type": "What is this?",
+          "value": "NOT a Hot Dog"
+        },
+        {
+          "trait_type": "date",
+          "value": 1773
+        }
+      ]
+    ],
+    "external_url": "https://www.nagadaonft.com/"
+  },
+  {
+    "name": "Naga Kid #8",
+    "description": "Project Naga Kid",
+    "image": "ipfs://QmeyZe8MYBtgaEpDAvnYNRWNNN44rV88JezdGXaPfJqYtA/8.png",
+    "edition": 8,
+    "attributes": [
+      [
+        {
+          "trait_type": "average color",
+          "value": "rgb(206,176,206)"
+        },
+        {
+          "trait_type": "What is this?",
+          "value": "NOT a Hot Dog"
+        },
+        {
+          "trait_type": "date",
+          "value": 1815
+        }
+      ]
+    ],
+    "external_url": "https://www.nagadaonft.com/"
+  },
+  {
+    "name": "Naga Kid #9",
+    "description": "Project Naga Kid",
+    "image": "ipfs://QmeyZe8MYBtgaEpDAvnYNRWNNN44rV88JezdGXaPfJqYtA/9.png",
+    "edition": 9,
+    "attributes": [
+      [
+        {
+          "trait_type": "average color",
+          "value": "rgb(217,157,141)"
+        },
+        {
+          "trait_type": "What is this?",
+          "value": "NOT a Hot Dog"
+        },
+        {
+          "trait_type": "date",
+          "value": 1766
+        }
+      ]
+    ],
+    "external_url": "https://www.nagadaonft.com/"
+  }
+]
