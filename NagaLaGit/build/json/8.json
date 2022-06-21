@@ -1,31 +1,30 @@
 {
   "name": "Naga Kids #8",
   "description": "Test1",
-  "image": "ipfs://QmQbfz3rrELpKPdczAujrTqjx8Vt5HPWPGMhWXNXXy7TA5/8.png",
-  "dna": "86c89fb675d92f761e8d7a3d94a70adb617fcb17",
+  "image": "ipfs://QmUoyF94YJKTKgNFwJgVRkZdQiHzPgPnpdmQ1PiXyMVP33/8.png",
+  "dna": "7353b65aa9d64932af1b27353b6e2acaff16f573",
   "edition": 8,
-  "date": 1655739736865,
+  "external_url": "https://www.nagadaonft.com/",
   "attributes": [
     {
-      "trait_type": "5BG",
+      "trait_type": "Background",
       "value": "BG"
     },
     {
-      "trait_type": "4NAGA",
+      "trait_type": "NagaKid",
       "value": "1"
     },
     {
-      "trait_type": "3body",
-      "value": "7"
+      "trait_type": "Body",
+      "value": "3"
     },
     {
-      "trait_type": "2head",
-      "value": "19"
+      "trait_type": "Head",
+      "value": "4"
     },
     {
-      "trait_type": "1mouse",
-      "value": "2"
+      "trait_type": "Mouse",
+      "value": "3"
     }
-  ],
-  "compiler": "HashLips Art Engine"
+  ]
 }

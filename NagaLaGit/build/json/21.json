@@ -1,0 +1,30 @@
+{
+  "name": "Naga Kids #21",
+  "description": "Test1",
+  "image": "ipfs://QmUoyF94YJKTKgNFwJgVRkZdQiHzPgPnpdmQ1PiXyMVP33/21.png",
+  "dna": "911779f23612881c552845c033ac2b86e7874ead",
+  "edition": 21,
+  "external_url": "https://www.nagadaonft.com/",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BG"
+    },
+    {
+      "trait_type": "NagaKid",
+      "value": "1"
+    },
+    {
+      "trait_type": "Body",
+      "value": "2"
+    },
+    {
+      "trait_type": "Head",
+      "value": "1"
+    },
+    {
+      "trait_type": "Mouse",
+      "value": "2"
+    }
+  ]
+}
