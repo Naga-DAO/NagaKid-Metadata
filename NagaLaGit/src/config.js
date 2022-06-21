@@ -5,7 +5,7 @@ const { NETWORK } = require(`${basePath}/constants/network.js`);
 const network = NETWORK.eth;
 
 // General metadata for Ethereum
-const namePrefix = "Naga Kids";
+const namePrefix = "Naga Kid";
 const description = "Test1";
 const baseUri = "ipfs://QmUoyF94YJKTKgNFwJgVRkZdQiHzPgPnpdmQ1PiXyMVP33"; //CID ipfs://uri
 
@@ -15,7 +15,7 @@ const solanaMetadata = {
     external_url: "https://www.nagadaonft.com/",
     creators: [
         {
-            address: "70x90d0949af536E45c6ccdbf64C6C6dF31c5B519eB", //metamask wallet ID
+            address: "70x90d0949af536E45c6ccdbf64C6C6dF31c5B519eB", // metamask wallet ID
             share: 100,
         },
     ],
