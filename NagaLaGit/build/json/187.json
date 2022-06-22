@@ -1,0 +1,33 @@
+{
+  "name": "Naga Kid #187",
+  "description": "Project Naga Kid",
+  "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/187.png",
+  "edition": 187,
+  "external_url": "https://www.nagadaonft.com/",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "WhiteYellow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "FireBlack Sket"
+    },
+    {
+      "trait_type": "NagaKid",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Monkey"
+    },
+    {
+      "trait_type": "Mouse",
+      "value": "Tremble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Devil Part"
+    }
+  ]
+}

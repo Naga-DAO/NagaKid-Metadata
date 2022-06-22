@@ -1,0 +1,33 @@
+{
+  "name": "Naga Kid #862",
+  "description": "Project Naga Kid",
+  "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/862.png",
+  "edition": 862,
+  "external_url": "https://www.nagadaonft.com/",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Background",
+      "value": "FireBlack Sket"
+    },
+    {
+      "trait_type": "NagaKid",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "WhiteBlack Suit"
+    },
+    {
+      "trait_type": "Mouse",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Hair"
+    }
+  ]
+}

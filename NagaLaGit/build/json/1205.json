@@ -1,0 +1,33 @@
+{
+  "name": "Naga Kid #1205",
+  "description": "Project Naga Kid",
+  "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/1205.png",
+  "edition": 1205,
+  "external_url": "https://www.nagadaonft.com/",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "NagaKid",
+      "value": "White"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow Float"
+    },
+    {
+      "trait_type": "Mouse",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sunglasses"
+    }
+  ]
+}

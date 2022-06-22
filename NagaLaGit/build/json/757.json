@@ -1,0 +1,33 @@
+{
+  "name": "Naga Kid #757",
+  "description": "Project Naga Kid",
+  "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/757.png",
+  "edition": 757,
+  "external_url": "https://www.nagadaonft.com/",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Background",
+      "value": "FireBlack Sket"
+    },
+    {
+      "trait_type": "NagaKid",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Monkey"
+    },
+    {
+      "trait_type": "Mouse",
+      "value": "Tongue"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MaskFace"
+    }
+  ]
+}

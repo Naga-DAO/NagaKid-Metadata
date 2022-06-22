@@ -1,0 +1,33 @@
+{
+  "name": "Naga Kid #618",
+  "description": "Project Naga Kid",
+  "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/618.png",
+  "edition": 618,
+  "external_url": "https://www.nagadaonft.com/",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "DarkBlue"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "NagaKid",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow Float"
+    },
+    {
+      "trait_type": "Mouse",
+      "value": "Tongue"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Glasses"
+    }
+  ]
+}

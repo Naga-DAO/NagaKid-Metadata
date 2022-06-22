@@ -1,0 +1,33 @@
+{
+  "name": "Naga Kid #1083",
+  "description": "Project Naga Kid",
+  "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/1083.png",
+  "edition": 1083,
+  "external_url": "https://www.nagadaonft.com/",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Office"
+    },
+    {
+      "trait_type": "NagaKid",
+      "value": "White"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Hood"
+    },
+    {
+      "trait_type": "Mouse",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red PartyHat"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Naga Kid #952",
+  "description": "Project Naga Kid",
+  "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/952.png",
+  "edition": 952,
+  "external_url": "https://www.nagadaonft.com/",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "WhiteYellow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "FireWhite Sket"
+    },
+    {
+      "trait_type": "NagaKid",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Shark"
+    },
+    {
+      "trait_type": "Mouse",
+      "value": "Tongue"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Duck"
+    }
+  ]
+}

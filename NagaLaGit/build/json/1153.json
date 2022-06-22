@@ -1,0 +1,33 @@
+{
+  "name": "Naga Kid #1153",
+  "description": "Project Naga Kid",
+  "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/1153.png",
+  "edition": 1153,
+  "external_url": "https://www.nagadaonft.com/",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Office"
+    },
+    {
+      "trait_type": "NagaKid",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Float"
+    },
+    {
+      "trait_type": "Mouse",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Head",
+      "value": "White Hair"
+    }
+  ]
+}

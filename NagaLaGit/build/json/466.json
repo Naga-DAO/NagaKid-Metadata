@@ -1,0 +1,33 @@
+{
+  "name": "Naga Kid #466",
+  "description": "Project Naga Kid",
+  "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/466.png",
+  "edition": 466,
+  "external_url": "https://www.nagadaonft.com/",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pan"
+    },
+    {
+      "trait_type": "NagaKid",
+      "value": "BluePurple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink Scarf"
+    },
+    {
+      "trait_type": "Mouse",
+      "value": "Scowl"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Cap"
+    }
+  ]
+}

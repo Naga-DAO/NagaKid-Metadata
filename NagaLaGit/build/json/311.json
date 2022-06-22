@@ -1,0 +1,33 @@
+{
+  "name": "Naga Kid #311",
+  "description": "Project Naga Kid",
+  "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/311.png",
+  "edition": 311,
+  "external_url": "https://www.nagadaonft.com/",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pizza"
+    },
+    {
+      "trait_type": "NagaKid",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow RainSuit"
+    },
+    {
+      "trait_type": "Mouse",
+      "value": "SpitFire"
+    },
+    {
+      "trait_type": "Head",
+      "value": "White Hair"
+    }
+  ]
+}

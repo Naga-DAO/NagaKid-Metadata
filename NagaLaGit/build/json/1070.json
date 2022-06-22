@@ -1,0 +1,33 @@
+{
+  "name": "Naga Kid #1070",
+  "description": "Project Naga Kid",
+  "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/1070.png",
+  "edition": 1070,
+  "external_url": "https://www.nagadaonft.com/",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Office"
+    },
+    {
+      "trait_type": "NagaKid",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Shark"
+    },
+    {
+      "trait_type": "Mouse",
+      "value": "Scowl"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Hair"
+    }
+  ]
+}

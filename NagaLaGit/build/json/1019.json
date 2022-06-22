@@ -1,0 +1,33 @@
+{
+  "name": "Naga Kid #1019",
+  "description": "Project Naga Kid",
+  "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/1019.png",
+  "edition": 1019,
+  "external_url": "https://www.nagadaonft.com/",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "WhiteYellow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Office"
+    },
+    {
+      "trait_type": "NagaKid",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink ScarfPattern"
+    },
+    {
+      "trait_type": "Mouse",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Glasses"
+    }
+  ]
+}

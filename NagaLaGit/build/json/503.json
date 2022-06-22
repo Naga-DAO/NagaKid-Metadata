@@ -1,0 +1,33 @@
+{
+  "name": "Naga Kid #503",
+  "description": "Project Naga Kid",
+  "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/503.png",
+  "edition": 503,
+  "external_url": "https://www.nagadaonft.com/",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "NagaKid",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Monkey"
+    },
+    {
+      "trait_type": "Mouse",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Hair"
+    }
+  ]
+}

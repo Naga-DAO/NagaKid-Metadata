@@ -1,0 +1,33 @@
+{
+  "name": "Naga Kid #773",
+  "description": "Project Naga Kid",
+  "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/773.png",
+  "edition": 773,
+  "external_url": "https://www.nagadaonft.com/",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "PinkYellow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pan"
+    },
+    {
+      "trait_type": "NagaKid",
+      "value": "White"
+    },
+    {
+      "trait_type": "Body",
+      "value": "WhiteRed Suit"
+    },
+    {
+      "trait_type": "Mouse",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Chef"
+    }
+  ]
+}

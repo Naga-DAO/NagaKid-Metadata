@@ -1,0 +1,33 @@
+{
+  "name": "Naga Kid #312",
+  "description": "Project Naga Kid",
+  "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/312.png",
+  "edition": 312,
+  "external_url": "https://www.nagadaonft.com/",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pan"
+    },
+    {
+      "trait_type": "NagaKid",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow Bow"
+    },
+    {
+      "trait_type": "Mouse",
+      "value": "Tremble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MaskTop"
+    }
+  ]
+}

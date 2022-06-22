@@ -1,0 +1,33 @@
+{
+  "name": "Naga Kid #864",
+  "description": "Project Naga Kid",
+  "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/864.png",
+  "edition": 864,
+  "external_url": "https://www.nagadaonft.com/",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "PinkYellow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pizza"
+    },
+    {
+      "trait_type": "NagaKid",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink Scarf"
+    },
+    {
+      "trait_type": "Mouse",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Cap"
+    }
+  ]
+}

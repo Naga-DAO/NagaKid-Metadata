@@ -1,0 +1,33 @@
+{
+  "name": "Naga Kid #897",
+  "description": "Project Naga Kid",
+  "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/897.png",
+  "edition": 897,
+  "external_url": "https://www.nagadaonft.com/",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Office"
+    },
+    {
+      "trait_type": "NagaKid",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Monkey"
+    },
+    {
+      "trait_type": "Mouse",
+      "value": "Stunned"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space Helmet"
+    }
+  ]
+}

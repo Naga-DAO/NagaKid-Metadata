@@ -1,0 +1,33 @@
+{
+  "name": "Naga Kid #1247",
+  "description": "Project Naga Kid",
+  "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/1247.png",
+  "edition": 1247,
+  "external_url": "https://www.nagadaonft.com/",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "PinkYellow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "FriedEgg"
+    },
+    {
+      "trait_type": "NagaKid",
+      "value": "BluePurple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow Bow"
+    },
+    {
+      "trait_type": "Mouse",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Hair"
+    }
+  ]
+}

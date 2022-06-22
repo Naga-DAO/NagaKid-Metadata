@@ -1,0 +1,33 @@
+{
+  "name": "Naga Kid #1227",
+  "description": "Project Naga Kid",
+  "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/1227.png",
+  "edition": 1227,
+  "external_url": "https://www.nagadaonft.com/",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Black Sket"
+    },
+    {
+      "trait_type": "NagaKid",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow RainSuit"
+    },
+    {
+      "trait_type": "Mouse",
+      "value": "Tongue"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Glasses"
+    }
+  ]
+}

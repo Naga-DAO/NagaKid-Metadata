@@ -1,0 +1,33 @@
+{
+  "name": "Naga Kid #498",
+  "description": "Project Naga Kid",
+  "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/498.png",
+  "edition": 498,
+  "external_url": "https://www.nagadaonft.com/",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Mountain"
+    },
+    {
+      "trait_type": "NagaKid",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Hood"
+    },
+    {
+      "trait_type": "Mouse",
+      "value": "Stunned"
+    },
+    {
+      "trait_type": "Head",
+      "value": "White Hair"
+    }
+  ]
+}

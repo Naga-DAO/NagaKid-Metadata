@@ -1,0 +1,33 @@
+{
+  "name": "Naga Kid #1444",
+  "description": "Project Naga Kid",
+  "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/1444.png",
+  "edition": 1444,
+  "external_url": "https://www.nagadaonft.com/",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Background",
+      "value": "FriedEgg"
+    },
+    {
+      "trait_type": "NagaKid",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink Float"
+    },
+    {
+      "trait_type": "Mouse",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Banana Peel"
+    }
+  ]
+}

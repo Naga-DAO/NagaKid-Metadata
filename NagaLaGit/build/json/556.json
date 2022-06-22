@@ -1,0 +1,33 @@
+{
+  "name": "Naga Kid #556",
+  "description": "Project Naga Kid",
+  "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/556.png",
+  "edition": 556,
+  "external_url": "https://www.nagadaonft.com/",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "DarkBlue"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "NagaKid",
+      "value": "BluePurple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Suit"
+    },
+    {
+      "trait_type": "Mouse",
+      "value": "Tremble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "White Hair"
+    }
+  ]
+}

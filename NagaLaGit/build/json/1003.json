@@ -1,0 +1,33 @@
+{
+  "name": "Naga Kid #1003",
+  "description": "Project Naga Kid",
+  "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/1003.png",
+  "edition": 1003,
+  "external_url": "https://www.nagadaonft.com/",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Office"
+    },
+    {
+      "trait_type": "NagaKid",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink ScarfPattern"
+    },
+    {
+      "trait_type": "Mouse",
+      "value": "Tremble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sapling"
+    }
+  ]
+}

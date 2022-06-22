@@ -1,0 +1,33 @@
+{
+  "name": "Naga Kid #177",
+  "description": "Project Naga Kid",
+  "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/177.png",
+  "edition": 177,
+  "external_url": "https://www.nagadaonft.com/",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pizza"
+    },
+    {
+      "trait_type": "NagaKid",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "WhiteBlack Suit"
+    },
+    {
+      "trait_type": "Mouse",
+      "value": "Stunned"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue PartyHat"
+    }
+  ]
+}

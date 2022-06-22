@@ -1,0 +1,33 @@
+{
+  "name": "Naga Kid #1362",
+  "description": "Project Naga Kid",
+  "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/1362.png",
+  "edition": 1362,
+  "external_url": "https://www.nagadaonft.com/",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "FireBlack Sket"
+    },
+    {
+      "trait_type": "NagaKid",
+      "value": "BluePurple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow Scarf"
+    },
+    {
+      "trait_type": "Mouse",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadPhone"
+    }
+  ]
+}

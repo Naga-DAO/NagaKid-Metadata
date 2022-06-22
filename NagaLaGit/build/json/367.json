@@ -1,0 +1,33 @@
+{
+  "name": "Naga Kid #367",
+  "description": "Project Naga Kid",
+  "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/367.png",
+  "edition": 367,
+  "external_url": "https://www.nagadaonft.com/",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "NagaKid",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "WhiteRed Suit"
+    },
+    {
+      "trait_type": "Mouse",
+      "value": "SpitFire"
+    },
+    {
+      "trait_type": "Head",
+      "value": "White Hair"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Naga Kid #75",
+  "description": "Project Naga Kid",
+  "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/75.png",
+  "edition": 75,
+  "external_url": "https://www.nagadaonft.com/",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pan"
+    },
+    {
+      "trait_type": "NagaKid",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow Float"
+    },
+    {
+      "trait_type": "Mouse",
+      "value": "SpitFire"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red PartyHat"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Naga Kid #69",
+  "description": "Project Naga Kid",
+  "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/69.png",
+  "edition": 69,
+  "external_url": "https://www.nagadaonft.com/",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pizza"
+    },
+    {
+      "trait_type": "NagaKid",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Shark"
+    },
+    {
+      "trait_type": "Mouse",
+      "value": "SpitFire"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadPhone"
+    }
+  ]
+}

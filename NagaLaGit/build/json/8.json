@@ -1,23 +1,33 @@
 {
   "name": "Naga Kid #8",
   "description": "Project Naga Kid",
-  "image": "ipfs://QmeyZe8MYBtgaEpDAvnYNRWNNN44rV88JezdGXaPfJqYtA/8.png",
+  "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/8.png",
   "edition": 8,
+  "external_url": "https://www.nagadaonft.com/",
   "attributes": [
-    [
-      {
-        "trait_type": "average color",
-        "value": "rgb(206,176,206)"
-      },
-      {
-        "trait_type": "What is this?",
-        "value": "NOT a Hot Dog"
-      },
-      {
-        "trait_type": "date",
-        "value": 1815
-      }
-    ]
-  ],
-  "external_url": "https://www.nagadaonft.com/"
+    {
+      "trait_type": "Color",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Space"
+    },
+    {
+      "trait_type": "NagaKid",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Hood"
+    },
+    {
+      "trait_type": "Mouse",
+      "value": "SpitFire"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Devil Part"
+    }
+  ]
 }

@@ -1,0 +1,33 @@
+{
+  "name": "Naga Kid #756",
+  "description": "Project Naga Kid",
+  "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/756.png",
+  "edition": 756,
+  "external_url": "https://www.nagadaonft.com/",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "DarkBlue"
+    },
+    {
+      "trait_type": "Background",
+      "value": "FireBlack Sket"
+    },
+    {
+      "trait_type": "NagaKid",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow Float"
+    },
+    {
+      "trait_type": "Mouse",
+      "value": "Stunned"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Duck"
+    }
+  ]
+}

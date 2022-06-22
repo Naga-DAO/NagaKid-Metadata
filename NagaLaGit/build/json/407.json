@@ -1,0 +1,33 @@
+{
+  "name": "Naga Kid #407",
+  "description": "Project Naga Kid",
+  "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/407.png",
+  "edition": 407,
+  "external_url": "https://www.nagadaonft.com/",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Rocket"
+    },
+    {
+      "trait_type": "NagaKid",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Shark"
+    },
+    {
+      "trait_type": "Mouse",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hat"
+    }
+  ]
+}

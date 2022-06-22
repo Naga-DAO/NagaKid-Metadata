@@ -1,0 +1,33 @@
+{
+  "name": "Naga Kid #143",
+  "description": "Project Naga Kid",
+  "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/143.png",
+  "edition": 143,
+  "external_url": "https://www.nagadaonft.com/",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pan"
+    },
+    {
+      "trait_type": "NagaKid",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Shark"
+    },
+    {
+      "trait_type": "Mouse",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Head",
+      "value": "MaskTop"
+    }
+  ]
+}

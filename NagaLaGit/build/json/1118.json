@@ -1,0 +1,33 @@
+{
+  "name": "Naga Kid #1118",
+  "description": "Project Naga Kid",
+  "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/1118.png",
+  "edition": 1118,
+  "external_url": "https://www.nagadaonft.com/",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Background",
+      "value": "FireBlack Sket"
+    },
+    {
+      "trait_type": "NagaKid",
+      "value": "BluePurple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Shark"
+    },
+    {
+      "trait_type": "Mouse",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Space Helmet"
+    }
+  ]
+}

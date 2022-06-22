@@ -1,0 +1,33 @@
+{
+  "name": "Naga Kid #741",
+  "description": "Project Naga Kid",
+  "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/741.png",
+  "edition": 741,
+  "external_url": "https://www.nagadaonft.com/",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "DarkBlue"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "NagaKid",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Bow"
+    },
+    {
+      "trait_type": "Mouse",
+      "value": "Tongue"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Banana Peel"
+    }
+  ]
+}

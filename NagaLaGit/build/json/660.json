@@ -1,0 +1,33 @@
+{
+  "name": "Naga Kid #660",
+  "description": "Project Naga Kid",
+  "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/660.png",
+  "edition": 660,
+  "external_url": "https://www.nagadaonft.com/",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "FriedEgg"
+    },
+    {
+      "trait_type": "NagaKid",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow Float"
+    },
+    {
+      "trait_type": "Mouse",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sapling"
+    }
+  ]
+}

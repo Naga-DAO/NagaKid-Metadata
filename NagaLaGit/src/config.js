@@ -7,7 +7,7 @@ const network = NETWORK.eth;
 // General metadata for Ethereum
 const namePrefix = "Naga Kid";
 const description = "Project Naga Kid";
-const baseUri = "ipfs://QmeyZe8MYBtgaEpDAvnYNRWNNN44rV88JezdGXaPfJqYtA"; //CID ipfs://uri
+const baseUri = "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb"; //CID ipfs://uri
 
 const solanaMetadata = {
     symbol: "Naga Kid",
@@ -24,8 +24,8 @@ const solanaMetadata = {
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
     {
-        growEditionSizeTo: 10, // Taget 1111
-        layersOrder: [{ name: "Color" }, { name: "Background" }, { name: "NagaKid" }, { name: "Body" }, { name: "Head" }, { name: "Mouse" }],
+        growEditionSizeTo: 1500, // Taget 1111
+        layersOrder: [{ name: "Color" }, { name: "Background" }, { name: "NagaKid" }, { name: "Body" }, { name: "Mouse" }, { name: "Head" }],
     },
 ];
 
@@ -70,8 +70,10 @@ const background = {
     default: "#000000",
 };
 
+const external_url = "https://www.nagadaonft.com/";
+
 const extraMetadata = {
-    external_url: "https://www.nagadaonft.com/",
+    external_url: external_url,
     // seller_fee_basis_points: 1000, // 100 = 1%
     // fee_recipient: "0x6d644A42aCc9156437f20Ac002F1a73A74863Efa",
 };
@@ -115,4 +117,5 @@ module.exports = {
     solanaMetadata,
     gif,
     preview_gif,
+    external_url,
 };

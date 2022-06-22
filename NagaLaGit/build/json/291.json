@@ -1,0 +1,33 @@
+{
+  "name": "Naga Kid #291",
+  "description": "Project Naga Kid",
+  "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/291.png",
+  "edition": 291,
+  "external_url": "https://www.nagadaonft.com/",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Background",
+      "value": "FriedEgg"
+    },
+    {
+      "trait_type": "NagaKid",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Hood"
+    },
+    {
+      "trait_type": "Mouse",
+      "value": "Frighten"
+    },
+    {
+      "trait_type": "Head",
+      "value": "HeadPhone"
+    }
+  ]
+}

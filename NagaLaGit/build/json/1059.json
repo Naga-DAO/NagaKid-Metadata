@@ -1,0 +1,33 @@
+{
+  "name": "Naga Kid #1059",
+  "description": "Project Naga Kid",
+  "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/1059.png",
+  "edition": 1059,
+  "external_url": "https://www.nagadaonft.com/",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Space"
+    },
+    {
+      "trait_type": "NagaKid",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow Scarf"
+    },
+    {
+      "trait_type": "Mouse",
+      "value": "Frighten"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Cap"
+    }
+  ]
+}
