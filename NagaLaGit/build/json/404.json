@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #404",
+  "name": "Naga Kids #404",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/404.png",
   "edition": 404,
@@ -7,27 +7,27 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "PinkYellow"
+      "value": "DarkBlue"
     },
     {
       "trait_type": "Background",
-      "value": "Office"
+      "value": "FireBlack Sket"
     },
     {
       "trait_type": "NagaKid",
-      "value": "White"
+      "value": "Green"
     },
     {
       "trait_type": "Body",
-      "value": "Pink Float"
+      "value": "Yellow Bow"
     },
     {
       "trait_type": "Mouse",
-      "value": "Laser"
+      "value": "Surprised"
     },
     {
       "trait_type": "Head",
-      "value": "Chef"
+      "value": "Masktop"
     }
   ]
 }

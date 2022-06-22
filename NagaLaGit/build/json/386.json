@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #386",
+  "name": "Naga Kids #386",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/386.png",
   "edition": 386,
@@ -7,27 +7,27 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "DarkBlue"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
-      "value": "Rocket"
+      "value": "Black Sket"
     },
     {
       "trait_type": "NagaKid",
-      "value": "Red"
+      "value": "BluePurple"
     },
     {
       "trait_type": "Body",
-      "value": "Pink ScarfPattern"
+      "value": "Blue Shark"
     },
     {
       "trait_type": "Mouse",
-      "value": "Frighten"
+      "value": "Tongue"
     },
     {
       "trait_type": "Head",
-      "value": "White Hair"
+      "value": "Chef"
     }
   ]
 }

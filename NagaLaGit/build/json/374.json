@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #374",
+  "name": "Naga Kids #374",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/374.png",
   "edition": 374,
@@ -11,7 +11,7 @@
     },
     {
       "trait_type": "Background",
-      "value": "FriedEgg"
+      "value": "Fire"
     },
     {
       "trait_type": "NagaKid",
@@ -19,7 +19,7 @@
     },
     {
       "trait_type": "Body",
-      "value": "Black Shark"
+      "value": "Black Suit"
     },
     {
       "trait_type": "Mouse",
@@ -27,7 +27,7 @@
     },
     {
       "trait_type": "Head",
-      "value": "Headkerchief Checkered"
+      "value": "Yellow PartyHat"
     }
   ]
 }

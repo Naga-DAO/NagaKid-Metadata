@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #770",
+  "name": "Naga Kids #770",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/770.png",
   "edition": 770,
@@ -7,15 +7,15 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "DarkBlue"
+      "value": "Orange"
     },
     {
       "trait_type": "Background",
-      "value": "Mountain"
+      "value": "FireBlack Sket"
     },
     {
       "trait_type": "NagaKid",
-      "value": "White"
+      "value": "Green"
     },
     {
       "trait_type": "Body",
@@ -27,7 +27,7 @@
     },
     {
       "trait_type": "Head",
-      "value": "Bag"
+      "value": "Checkered Kerchief"
     }
   ]
 }

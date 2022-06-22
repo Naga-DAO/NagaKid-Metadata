@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #553",
+  "name": "Naga Kids #553",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/553.png",
   "edition": 553,
@@ -7,27 +7,27 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "Black"
+      "value": "PurplePink"
     },
     {
       "trait_type": "Background",
-      "value": "Pizza"
+      "value": "Office"
     },
     {
       "trait_type": "NagaKid",
-      "value": "Blue"
+      "value": "Pink"
     },
     {
       "trait_type": "Body",
-      "value": "WhiteBlack Suit"
+      "value": "Black Shark"
     },
     {
       "trait_type": "Mouse",
-      "value": "Tongue"
+      "value": "Scowl"
     },
     {
       "trait_type": "Head",
-      "value": "Space Helmet"
+      "value": "Blue Hair"
     }
   ]
 }

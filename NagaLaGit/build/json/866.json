@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #866",
+  "name": "Naga Kids #866",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/866.png",
   "edition": 866,
@@ -11,15 +11,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "FireWhite Sket"
+      "value": "Black Sket"
     },
     {
       "trait_type": "NagaKid",
-      "value": "Green"
+      "value": "Red"
     },
     {
       "trait_type": "Body",
-      "value": "WhiteRed Suit"
+      "value": "Yellow Bow"
     },
     {
       "trait_type": "Mouse",
@@ -27,7 +27,7 @@
     },
     {
       "trait_type": "Head",
-      "value": "Duck"
+      "value": "Devil Part"
     }
   ]
 }

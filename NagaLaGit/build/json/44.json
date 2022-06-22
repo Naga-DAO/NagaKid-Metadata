@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #44",
+  "name": "Naga Kids #44",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/44.png",
   "edition": 44,
@@ -7,27 +7,27 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "Green"
+      "value": "Red"
     },
     {
       "trait_type": "Background",
-      "value": "Office"
+      "value": "Pan"
     },
     {
       "trait_type": "NagaKid",
-      "value": "Green"
+      "value": "Red"
     },
     {
       "trait_type": "Body",
-      "value": "Blue Float"
+      "value": "Pink Scarf"
     },
     {
       "trait_type": "Mouse",
-      "value": "Smile"
+      "value": "Rainbow"
     },
     {
       "trait_type": "Head",
-      "value": "Yellow PartyHat"
+      "value": "Red Glasses"
     }
   ]
 }

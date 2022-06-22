@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #178",
+  "name": "Naga Kids #178",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/178.png",
   "edition": 178,
@@ -7,23 +7,23 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "Purple"
+      "value": "PurplePink"
     },
     {
       "trait_type": "Background",
-      "value": "Fire"
+      "value": "Rocket"
     },
     {
       "trait_type": "NagaKid",
-      "value": "Blue"
+      "value": "Red"
     },
     {
       "trait_type": "Body",
-      "value": "Monkey"
+      "value": "Yellow Bow"
     },
     {
       "trait_type": "Mouse",
-      "value": "Stunned"
+      "value": "Laser"
     },
     {
       "trait_type": "Head",

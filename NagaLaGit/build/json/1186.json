@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #1186",
+  "name": "Naga Kids #1186",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/1186.png",
   "edition": 1186,
@@ -7,27 +7,27 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "Blue"
+      "value": "PinkPurple"
     },
     {
       "trait_type": "Background",
-      "value": "Space"
+      "value": "Rocket"
     },
     {
       "trait_type": "NagaKid",
-      "value": "White"
+      "value": "BluePurple"
     },
     {
       "trait_type": "Body",
-      "value": "Yellow Float"
+      "value": "Black Shark"
     },
     {
       "trait_type": "Mouse",
-      "value": "Rainbow"
+      "value": "Tongue"
     },
     {
       "trait_type": "Head",
-      "value": "Sunglasses"
+      "value": "Hat"
     }
   ]
 }

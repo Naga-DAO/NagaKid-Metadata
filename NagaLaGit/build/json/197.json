@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #197",
+  "name": "Naga Kids #197",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/197.png",
   "edition": 197,
@@ -7,23 +7,23 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "Green"
+      "value": "Black"
     },
     {
       "trait_type": "Background",
-      "value": "Fire"
+      "value": "Office"
     },
     {
       "trait_type": "NagaKid",
-      "value": "Blue"
+      "value": "Green"
     },
     {
       "trait_type": "Body",
-      "value": "Red Bow"
+      "value": "Black Hood"
     },
     {
       "trait_type": "Mouse",
-      "value": "Stunned"
+      "value": "Surprised"
     },
     {
       "trait_type": "Head",

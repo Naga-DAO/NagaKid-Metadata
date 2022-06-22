@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #681",
+  "name": "Naga Kids #681",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/681.png",
   "edition": 681,
@@ -11,15 +11,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "Pan"
+      "value": "FriedEgg"
     },
     {
       "trait_type": "NagaKid",
-      "value": "BluePurple"
+      "value": "White"
     },
     {
       "trait_type": "Body",
-      "value": "Red Shark"
+      "value": "Black Suit"
     },
     {
       "trait_type": "Mouse",
@@ -27,7 +27,7 @@
     },
     {
       "trait_type": "Head",
-      "value": "Red Glasses"
+      "value": "Headphone"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #776",
+  "name": "Naga Kids #776",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/776.png",
   "edition": 776,
@@ -7,27 +7,27 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "Red"
+      "value": "Orange"
     },
     {
       "trait_type": "Background",
-      "value": "Rocket"
+      "value": "Black Sket"
     },
     {
       "trait_type": "NagaKid",
-      "value": "BluePurple"
+      "value": "Black"
     },
     {
       "trait_type": "Body",
-      "value": "Black Shark"
+      "value": "Blue Float"
     },
     {
       "trait_type": "Mouse",
-      "value": "Surprised"
+      "value": "Scowl"
     },
     {
       "trait_type": "Head",
-      "value": "Devil Part"
+      "value": "Chef"
     }
   ]
 }

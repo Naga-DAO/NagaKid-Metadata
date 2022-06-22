@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #120",
+  "name": "Naga Kids #120",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/120.png",
   "edition": 120,
@@ -7,27 +7,27 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "Blue"
+      "value": "PinkPurple"
     },
     {
       "trait_type": "Background",
-      "value": "Pizza"
+      "value": "FireBlack Sket"
     },
     {
       "trait_type": "NagaKid",
-      "value": "Red"
+      "value": "BluePurple"
     },
     {
       "trait_type": "Body",
-      "value": "Red Shark"
+      "value": "Black Shark"
     },
     {
       "trait_type": "Mouse",
-      "value": "Stunned"
+      "value": "Scowl"
     },
     {
       "trait_type": "Head",
-      "value": "Chef"
+      "value": "Blue Glasses"
     }
   ]
 }

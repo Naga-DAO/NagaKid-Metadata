@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #60",
+  "name": "Naga Kids #60",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/60.png",
   "edition": 60,
@@ -7,27 +7,27 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "WhiteYellow"
+      "value": "PinkPurple"
     },
     {
       "trait_type": "Background",
-      "value": "Fire"
+      "value": "Black Sket"
     },
     {
       "trait_type": "NagaKid",
-      "value": "BluePurple"
+      "value": "Red"
     },
     {
       "trait_type": "Body",
-      "value": "Monkey"
+      "value": "Black Hood"
     },
     {
       "trait_type": "Mouse",
-      "value": "Smile"
+      "value": "Tongue"
     },
     {
       "trait_type": "Head",
-      "value": "Blue Hair"
+      "value": "Blue PartyHat"
     }
   ]
 }

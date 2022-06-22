@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #250",
+  "name": "Naga Kids #250",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/250.png",
   "edition": 250,
@@ -11,23 +11,23 @@
     },
     {
       "trait_type": "Background",
-      "value": "FireWhite Sket"
+      "value": "Rocket"
     },
     {
       "trait_type": "NagaKid",
-      "value": "White"
+      "value": "Green"
     },
     {
       "trait_type": "Body",
-      "value": "Yellow Scarf"
+      "value": "WhiteRed Suit"
     },
     {
       "trait_type": "Mouse",
-      "value": "Tongue"
+      "value": "Surprised"
     },
     {
       "trait_type": "Head",
-      "value": "Chef"
+      "value": "Red Cap"
     }
   ]
 }

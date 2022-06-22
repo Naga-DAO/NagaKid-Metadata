@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #203",
+  "name": "Naga Kids #203",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/203.png",
   "edition": 203,
@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "Purple"
+      "value": "White"
     },
     {
       "trait_type": "Background",
@@ -15,19 +15,19 @@
     },
     {
       "trait_type": "NagaKid",
-      "value": "BluePurple"
+      "value": "White"
     },
     {
       "trait_type": "Body",
-      "value": "Pink Scarf"
+      "value": "Monkey"
     },
     {
       "trait_type": "Mouse",
-      "value": "Smile"
+      "value": "Scowl"
     },
     {
       "trait_type": "Head",
-      "value": "Black Cap"
+      "value": "Blue Glasses"
     }
   ]
 }

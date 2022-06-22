@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #262",
+  "name": "Naga Kids #262",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/262.png",
   "edition": 262,
@@ -7,11 +7,11 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "DarkBlue"
+      "value": "Red"
     },
     {
       "trait_type": "Background",
-      "value": "Fire"
+      "value": "FriedEgg"
     },
     {
       "trait_type": "NagaKid",
@@ -19,7 +19,7 @@
     },
     {
       "trait_type": "Body",
-      "value": "Red Hood"
+      "value": "Black Shark"
     },
     {
       "trait_type": "Mouse",
@@ -27,7 +27,7 @@
     },
     {
       "trait_type": "Head",
-      "value": "Headkerchief Dots"
+      "value": "Blue Glasses"
     }
   ]
 }

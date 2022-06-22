@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #877",
+  "name": "Naga Kids #877",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/877.png",
   "edition": 877,
@@ -7,11 +7,11 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "Green"
+      "value": "WhiteYellow"
     },
     {
       "trait_type": "Background",
-      "value": "Rocket"
+      "value": "FireBlack Sket"
     },
     {
       "trait_type": "NagaKid",
@@ -19,15 +19,15 @@
     },
     {
       "trait_type": "Body",
-      "value": "Black RainSuit"
+      "value": "Pink ScarfPattern"
     },
     {
       "trait_type": "Mouse",
-      "value": "Laser"
+      "value": "Stunned"
     },
     {
       "trait_type": "Head",
-      "value": "Green Hair"
+      "value": "Headphone"
     }
   ]
 }

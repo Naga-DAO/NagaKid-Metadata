@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #441",
+  "name": "Naga Kids #441",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/441.png",
   "edition": 441,
@@ -7,27 +7,27 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "Purple"
+      "value": "DarkBlue"
     },
     {
       "trait_type": "Background",
-      "value": "Pizza"
+      "value": "Pan"
     },
     {
       "trait_type": "NagaKid",
-      "value": "Green"
+      "value": "Black"
     },
     {
       "trait_type": "Body",
-      "value": "Yellow Float"
+      "value": "Black Shark"
     },
     {
       "trait_type": "Mouse",
-      "value": "Stunned"
+      "value": "Frighten"
     },
     {
       "trait_type": "Head",
-      "value": "Blue Cap"
+      "value": "Bag"
     }
   ]
 }

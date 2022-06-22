@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #488",
+  "name": "Naga Kids #488",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/488.png",
   "edition": 488,
@@ -7,27 +7,27 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "Red"
+      "value": "White"
     },
     {
       "trait_type": "Background",
-      "value": "Rocket"
+      "value": "Black Sket"
     },
     {
       "trait_type": "NagaKid",
-      "value": "BluePurple"
+      "value": "Pink"
     },
     {
       "trait_type": "Body",
-      "value": "Yellow Scarf"
+      "value": "WhiteBlack Suit"
     },
     {
       "trait_type": "Mouse",
-      "value": "Frighten"
+      "value": "Stunned"
     },
     {
       "trait_type": "Head",
-      "value": "Black Cap"
+      "value": "Duck"
     }
   ]
 }

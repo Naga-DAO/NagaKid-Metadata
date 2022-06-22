@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #1275",
+  "name": "Naga Kids #1275",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/1275.png",
   "edition": 1275,
@@ -11,7 +11,7 @@
     },
     {
       "trait_type": "Background",
-      "value": "FireBlack Sket"
+      "value": "Mountain"
     },
     {
       "trait_type": "NagaKid",
@@ -23,11 +23,11 @@
     },
     {
       "trait_type": "Mouse",
-      "value": "Surprised"
+      "value": "Frighten"
     },
     {
       "trait_type": "Head",
-      "value": "Hat"
+      "value": "Red Glasses"
     }
   ]
 }

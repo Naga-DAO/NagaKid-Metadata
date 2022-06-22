@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #476",
+  "name": "Naga Kids #476",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/476.png",
   "edition": 476,
@@ -7,19 +7,19 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "PinkYellow"
+      "value": "PinkPurple"
     },
     {
       "trait_type": "Background",
-      "value": "Office"
+      "value": "Mountain"
     },
     {
       "trait_type": "NagaKid",
-      "value": "Pink"
+      "value": "BluePurple"
     },
     {
       "trait_type": "Body",
-      "value": "Red Hood"
+      "value": "Red Shark"
     },
     {
       "trait_type": "Mouse",
@@ -27,7 +27,7 @@
     },
     {
       "trait_type": "Head",
-      "value": "Yellow PartyHat"
+      "value": "Green Hair"
     }
   ]
 }

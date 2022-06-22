@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #72",
+  "name": "Naga Kids #72",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/72.png",
   "edition": 72,
@@ -11,23 +11,23 @@
     },
     {
       "trait_type": "Background",
-      "value": "Pan"
+      "value": "FriedEgg"
     },
     {
       "trait_type": "NagaKid",
-      "value": "Pink"
+      "value": "BluePurple"
     },
     {
       "trait_type": "Body",
-      "value": "Yellow RainSuit"
+      "value": "Black Suit"
     },
     {
       "trait_type": "Mouse",
-      "value": "Smile"
+      "value": "Rainbow"
     },
     {
       "trait_type": "Head",
-      "value": "Sunglasses"
+      "value": "Red PartyHat"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #1225",
+  "name": "Naga Kids #1225",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/1225.png",
   "edition": 1225,
@@ -7,15 +7,15 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "Purple"
+      "value": "RedPurple"
     },
     {
       "trait_type": "Background",
-      "value": "Rocket"
+      "value": "FriedEgg"
     },
     {
       "trait_type": "NagaKid",
-      "value": "BluePurple"
+      "value": "White"
     },
     {
       "trait_type": "Body",
@@ -27,7 +27,7 @@
     },
     {
       "trait_type": "Head",
-      "value": "Red Cap"
+      "value": "Checkered Kerchief"
     }
   ]
 }

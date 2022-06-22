@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #482",
+  "name": "Naga Kids #482",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/482.png",
   "edition": 482,
@@ -7,27 +7,27 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "PinkPurple"
+      "value": "Green"
     },
     {
       "trait_type": "Background",
-      "value": "Pizza"
+      "value": "FriedEgg"
     },
     {
       "trait_type": "NagaKid",
-      "value": "Pink"
+      "value": "Blue"
     },
     {
       "trait_type": "Body",
-      "value": "Pink Scarf"
+      "value": "WhiteRed Suit"
     },
     {
       "trait_type": "Mouse",
-      "value": "Surprised"
+      "value": "Smile"
     },
     {
       "trait_type": "Head",
-      "value": "Blue PartyHat"
+      "value": "Chef"
     }
   ]
 }

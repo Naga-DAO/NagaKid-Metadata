@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #1030",
+  "name": "Naga Kids #1030",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/1030.png",
   "edition": 1030,
@@ -11,11 +11,11 @@
     },
     {
       "trait_type": "Background",
-      "value": "Office"
+      "value": "Pan"
     },
     {
       "trait_type": "NagaKid",
-      "value": "White"
+      "value": "Green"
     },
     {
       "trait_type": "Body",
@@ -23,11 +23,11 @@
     },
     {
       "trait_type": "Mouse",
-      "value": "Frighten"
+      "value": "Tongue"
     },
     {
       "trait_type": "Head",
-      "value": "HeadPhone"
+      "value": "Black Cap"
     }
   ]
 }

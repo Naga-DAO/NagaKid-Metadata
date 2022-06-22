@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #412",
+  "name": "Naga Kids #412",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/412.png",
   "edition": 412,
@@ -7,27 +7,27 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "Black"
+      "value": "PurplePink"
     },
     {
       "trait_type": "Background",
-      "value": "Office"
+      "value": "Space"
     },
     {
       "trait_type": "NagaKid",
-      "value": "Black"
+      "value": "White"
     },
     {
       "trait_type": "Body",
-      "value": "Black Suit"
+      "value": "Black Shark"
     },
     {
       "trait_type": "Mouse",
-      "value": "Surprised"
+      "value": "Scowl"
     },
     {
       "trait_type": "Head",
-      "value": "Red Cap"
+      "value": "Dots Kerchief"
     }
   ]
 }

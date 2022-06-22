@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #490",
+  "name": "Naga Kids #490",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/490.png",
   "edition": 490,
@@ -15,11 +15,11 @@
     },
     {
       "trait_type": "NagaKid",
-      "value": "Green"
+      "value": "Red"
     },
     {
       "trait_type": "Body",
-      "value": "Blue Shark"
+      "value": "Yellow Bow"
     },
     {
       "trait_type": "Mouse",
@@ -27,7 +27,7 @@
     },
     {
       "trait_type": "Head",
-      "value": "Hat"
+      "value": "Blue Cap"
     }
   ]
 }

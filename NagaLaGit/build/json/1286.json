@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #1286",
+  "name": "Naga Kids #1286",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/1286.png",
   "edition": 1286,
@@ -11,23 +11,23 @@
     },
     {
       "trait_type": "Background",
-      "value": "Fire"
+      "value": "Office"
     },
     {
       "trait_type": "NagaKid",
-      "value": "White"
+      "value": "Blue"
     },
     {
       "trait_type": "Body",
-      "value": "Pink Float"
+      "value": "Pink Scarf"
     },
     {
       "trait_type": "Mouse",
-      "value": "Tremble"
+      "value": "Stunned"
     },
     {
       "trait_type": "Head",
-      "value": "Blue Glasses"
+      "value": "Fried Egg"
     }
   ]
 }

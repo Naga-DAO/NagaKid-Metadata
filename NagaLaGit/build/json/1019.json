@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #1019",
+  "name": "Naga Kids #1019",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/1019.png",
   "edition": 1019,
@@ -7,27 +7,27 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "WhiteYellow"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
-      "value": "Office"
+      "value": "Rocket"
     },
     {
       "trait_type": "NagaKid",
-      "value": "Pink"
+      "value": "BluePurple"
     },
     {
       "trait_type": "Body",
-      "value": "Pink ScarfPattern"
+      "value": "WhiteRed Suit"
     },
     {
       "trait_type": "Mouse",
-      "value": "Surprised"
+      "value": "Stunned"
     },
     {
       "trait_type": "Head",
-      "value": "Red Glasses"
+      "value": "Space Helmet"
     }
   ]
 }

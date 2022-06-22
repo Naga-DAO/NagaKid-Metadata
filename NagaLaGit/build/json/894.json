@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #894",
+  "name": "Naga Kids #894",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/894.png",
   "edition": 894,
@@ -7,11 +7,11 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "Purple"
+      "value": "PurplePink"
     },
     {
       "trait_type": "Background",
-      "value": "FriedEgg"
+      "value": "Mountain"
     },
     {
       "trait_type": "NagaKid",
@@ -19,15 +19,15 @@
     },
     {
       "trait_type": "Body",
-      "value": "Blue Hood"
+      "value": "Red Bow"
     },
     {
       "trait_type": "Mouse",
-      "value": "Tremble"
+      "value": "Rainbow"
     },
     {
       "trait_type": "Head",
-      "value": "Red Glasses"
+      "value": "Masktop"
     }
   ]
 }

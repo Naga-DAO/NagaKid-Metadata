@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #816",
+  "name": "Naga Kids #816",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/816.png",
   "edition": 816,
@@ -7,11 +7,11 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "RedPurple"
+      "value": "Yellow"
     },
     {
       "trait_type": "Background",
-      "value": "Rocket"
+      "value": "Pizza"
     },
     {
       "trait_type": "NagaKid",
@@ -19,15 +19,15 @@
     },
     {
       "trait_type": "Body",
-      "value": "WhiteBlack Suit"
+      "value": "Red Hood"
     },
     {
       "trait_type": "Mouse",
-      "value": "Stunned"
+      "value": "Laser"
     },
     {
       "trait_type": "Head",
-      "value": "Headkerchief Dots"
+      "value": "Red Glasses"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #336",
+  "name": "Naga Kids #336",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/336.png",
   "edition": 336,
@@ -7,19 +7,19 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "PinkYellow"
-    },
-    {
-      "trait_type": "Background",
-      "value": "Mountain"
-    },
-    {
-      "trait_type": "NagaKid",
       "value": "Red"
     },
     {
+      "trait_type": "Background",
+      "value": "FireWhite Sket"
+    },
+    {
+      "trait_type": "NagaKid",
+      "value": "White"
+    },
+    {
       "trait_type": "Body",
-      "value": "Yellow Float"
+      "value": "Yellow Scarf"
     },
     {
       "trait_type": "Mouse",
@@ -27,7 +27,7 @@
     },
     {
       "trait_type": "Head",
-      "value": "Headkerchief Checkered"
+      "value": "Banana Peel"
     }
   ]
 }

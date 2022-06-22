@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #359",
+  "name": "Naga Kids #359",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/359.png",
   "edition": 359,
@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "Red"
+      "value": "PinkPurple"
     },
     {
       "trait_type": "Background",
@@ -19,15 +19,15 @@
     },
     {
       "trait_type": "Body",
-      "value": "WhiteBlack Suit"
+      "value": "WhiteRed Suit"
     },
     {
       "trait_type": "Mouse",
-      "value": "Frighten"
+      "value": "Stunned"
     },
     {
       "trait_type": "Head",
-      "value": "Black Cap"
+      "value": "Red Hair"
     }
   ]
 }

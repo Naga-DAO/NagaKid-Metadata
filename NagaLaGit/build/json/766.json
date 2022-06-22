@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #766",
+  "name": "Naga Kids #766",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/766.png",
   "edition": 766,
@@ -7,11 +7,11 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "WhiteYellow"
+      "value": "Green"
     },
     {
       "trait_type": "Background",
-      "value": "FireBlack Sket"
+      "value": "FireWhite Sket"
     },
     {
       "trait_type": "NagaKid",
@@ -19,15 +19,15 @@
     },
     {
       "trait_type": "Body",
-      "value": "Pink Float"
+      "value": "Red Hood"
     },
     {
       "trait_type": "Mouse",
-      "value": "Frighten"
+      "value": "SpitFire"
     },
     {
       "trait_type": "Head",
-      "value": "Devil Part"
+      "value": "Checkered Kerchief"
     }
   ]
 }

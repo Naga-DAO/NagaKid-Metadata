@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #123",
+  "name": "Naga Kids #123",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/123.png",
   "edition": 123,
@@ -7,27 +7,27 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "RedPurple"
-    },
-    {
-      "trait_type": "Background",
-      "value": "Mountain"
-    },
-    {
-      "trait_type": "NagaKid",
       "value": "Blue"
     },
     {
+      "trait_type": "Background",
+      "value": "FriedEgg"
+    },
+    {
+      "trait_type": "NagaKid",
+      "value": "Pink"
+    },
+    {
       "trait_type": "Body",
-      "value": "WhiteRed Suit"
+      "value": "Monkey"
     },
     {
       "trait_type": "Mouse",
-      "value": "Tongue"
+      "value": "Tremble"
     },
     {
       "trait_type": "Head",
-      "value": "Blue PartyHat"
+      "value": "Fried Egg"
     }
   ]
 }

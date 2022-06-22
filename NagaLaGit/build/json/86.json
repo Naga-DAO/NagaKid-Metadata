@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #86",
+  "name": "Naga Kids #86",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/86.png",
   "edition": 86,
@@ -11,11 +11,11 @@
     },
     {
       "trait_type": "Background",
-      "value": "Space"
+      "value": "FireBlack Sket"
     },
     {
       "trait_type": "NagaKid",
-      "value": "White"
+      "value": "Red"
     },
     {
       "trait_type": "Body",
@@ -23,7 +23,7 @@
     },
     {
       "trait_type": "Mouse",
-      "value": "Laser"
+      "value": "Tongue"
     },
     {
       "trait_type": "Head",

@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #1187",
+  "name": "Naga Kids #1187",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/1187.png",
   "edition": 1187,
@@ -7,27 +7,27 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "White"
+      "value": "PinkYellow"
     },
     {
       "trait_type": "Background",
-      "value": "Space"
+      "value": "Fire"
     },
     {
       "trait_type": "NagaKid",
-      "value": "Red"
+      "value": "BluePurple"
     },
     {
       "trait_type": "Body",
-      "value": "White Hood"
+      "value": "Black Suit"
     },
     {
       "trait_type": "Mouse",
-      "value": "Scowl"
+      "value": "Surprised"
     },
     {
       "trait_type": "Head",
-      "value": "Devil Part"
+      "value": "Hat"
     }
   ]
 }

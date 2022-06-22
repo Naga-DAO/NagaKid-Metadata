@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #788",
+  "name": "Naga Kids #788",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/788.png",
   "edition": 788,
@@ -7,27 +7,27 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "Green"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
-      "value": "Pizza"
+      "value": "Space"
     },
     {
       "trait_type": "NagaKid",
-      "value": "BluePurple"
+      "value": "White"
     },
     {
       "trait_type": "Body",
-      "value": "Pink ScarfPattern"
+      "value": "Yellow Bow"
     },
     {
       "trait_type": "Mouse",
-      "value": "Smile"
+      "value": "Stunned"
     },
     {
       "trait_type": "Head",
-      "value": "Chef"
+      "value": "Sapling"
     }
   ]
 }

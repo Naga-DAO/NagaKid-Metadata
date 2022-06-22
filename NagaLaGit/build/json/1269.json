@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #1269",
+  "name": "Naga Kids #1269",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/1269.png",
   "edition": 1269,
@@ -7,15 +7,15 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "RedPurple"
+      "value": "WhiteYellow"
     },
     {
       "trait_type": "Background",
-      "value": "Fire"
+      "value": "Mountain"
     },
     {
       "trait_type": "NagaKid",
-      "value": "Blue"
+      "value": "White"
     },
     {
       "trait_type": "Body",
@@ -23,11 +23,11 @@
     },
     {
       "trait_type": "Mouse",
-      "value": "Rainbow"
+      "value": "Surprised"
     },
     {
       "trait_type": "Head",
-      "value": "Fried Egg"
+      "value": "Space Helmet"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #612",
+  "name": "Naga Kids #612",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/612.png",
   "edition": 612,
@@ -7,27 +7,27 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "Red"
+      "value": "Yellow"
     },
     {
       "trait_type": "Background",
-      "value": "Pan"
+      "value": "Space"
     },
     {
       "trait_type": "NagaKid",
-      "value": "Pink"
+      "value": "Red"
     },
     {
       "trait_type": "Body",
-      "value": "Red Hood"
+      "value": "Pink Scarf"
     },
     {
       "trait_type": "Mouse",
-      "value": "Frighten"
+      "value": "Scowl"
     },
     {
       "trait_type": "Head",
-      "value": "Fried Egg"
+      "value": "Maskface"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #23",
+  "name": "Naga Kids #23",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/23.png",
   "edition": 23,
@@ -7,27 +7,27 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "Yellow"
+      "value": "Red"
     },
     {
       "trait_type": "Background",
-      "value": "Office"
+      "value": "FriedEgg"
     },
     {
       "trait_type": "NagaKid",
-      "value": "Blue"
+      "value": "Red"
     },
     {
       "trait_type": "Body",
-      "value": "Black Shark"
+      "value": "WhiteBlack Suit"
     },
     {
       "trait_type": "Mouse",
-      "value": "Frighten"
+      "value": "Tongue"
     },
     {
       "trait_type": "Head",
-      "value": "Banana Peel"
+      "value": "Devil Part"
     }
   ]
 }

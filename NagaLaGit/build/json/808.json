@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #808",
+  "name": "Naga Kids #808",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/808.png",
   "edition": 808,
@@ -7,27 +7,27 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "Orange"
+      "value": "PurplePink"
     },
     {
       "trait_type": "Background",
-      "value": "Office"
+      "value": "FireWhite Sket"
     },
     {
       "trait_type": "NagaKid",
-      "value": "BluePurple"
+      "value": "White"
     },
     {
       "trait_type": "Body",
-      "value": "Black RainSuit"
+      "value": "Pink Scarf"
     },
     {
       "trait_type": "Mouse",
-      "value": "Stunned"
+      "value": "Tongue"
     },
     {
       "trait_type": "Head",
-      "value": "HeadPhone"
+      "value": "Space Helmet"
     }
   ]
 }

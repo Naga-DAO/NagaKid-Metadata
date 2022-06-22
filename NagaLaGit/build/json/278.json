@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #278",
+  "name": "Naga Kids #278",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/278.png",
   "edition": 278,
@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "Red"
+      "value": "Black"
     },
     {
       "trait_type": "Background",
@@ -15,19 +15,19 @@
     },
     {
       "trait_type": "NagaKid",
-      "value": "Green"
+      "value": "Red"
     },
     {
       "trait_type": "Body",
-      "value": "White Hood"
+      "value": "Red Hood"
     },
     {
       "trait_type": "Mouse",
-      "value": "Stunned"
+      "value": "Tongue"
     },
     {
       "trait_type": "Head",
-      "value": "Black Hair"
+      "value": "Space Helmet"
     }
   ]
 }

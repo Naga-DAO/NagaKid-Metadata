@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #443",
+  "name": "Naga Kids #443",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/443.png",
   "edition": 443,
@@ -7,23 +7,23 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "Black"
+      "value": "Orange"
     },
     {
       "trait_type": "Background",
-      "value": "Space"
+      "value": "Pan"
     },
     {
       "trait_type": "NagaKid",
-      "value": "BluePurple"
+      "value": "Green"
     },
     {
       "trait_type": "Body",
-      "value": "Blue Float"
+      "value": "White Hood"
     },
     {
       "trait_type": "Mouse",
-      "value": "Scowl"
+      "value": "Smile"
     },
     {
       "trait_type": "Head",

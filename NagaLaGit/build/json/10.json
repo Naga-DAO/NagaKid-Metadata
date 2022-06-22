@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #10",
+  "name": "Naga Kids #10",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/10.png",
   "edition": 10,
@@ -11,23 +11,23 @@
     },
     {
       "trait_type": "Background",
-      "value": "Rocket"
+      "value": "Office"
     },
     {
       "trait_type": "NagaKid",
-      "value": "Black"
+      "value": "Red"
     },
     {
       "trait_type": "Body",
-      "value": "Red Bow"
+      "value": "Pink Float"
     },
     {
       "trait_type": "Mouse",
-      "value": "SpitFire"
+      "value": "Tremble"
     },
     {
       "trait_type": "Head",
-      "value": "Hat"
+      "value": "Red Cap"
     }
   ]
 }

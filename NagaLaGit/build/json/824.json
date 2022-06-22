@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #824",
+  "name": "Naga Kids #824",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/824.png",
   "edition": 824,
@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "PinkPurple"
+      "value": "PinkYellow"
     },
     {
       "trait_type": "Background",
@@ -19,15 +19,15 @@
     },
     {
       "trait_type": "Body",
-      "value": "Pink ScarfPattern"
+      "value": "Yellow Bow"
     },
     {
       "trait_type": "Mouse",
-      "value": "Tremble"
+      "value": "Tongue"
     },
     {
       "trait_type": "Head",
-      "value": "Banana Peel"
+      "value": "Black Cap"
     }
   ]
 }

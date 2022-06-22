@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #606",
+  "name": "Naga Kids #606",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/606.png",
   "edition": 606,
@@ -7,27 +7,27 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "White"
+      "value": "Black"
     },
     {
       "trait_type": "Background",
-      "value": "Mountain"
+      "value": "Space"
     },
     {
       "trait_type": "NagaKid",
-      "value": "Blue"
+      "value": "Pink"
     },
     {
       "trait_type": "Body",
-      "value": "Black Suit"
+      "value": "Pink Float"
     },
     {
       "trait_type": "Mouse",
-      "value": "Smile"
+      "value": "Surprised"
     },
     {
       "trait_type": "Head",
-      "value": "Devil Part"
+      "value": "Sunglasses"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #1211",
+  "name": "Naga Kids #1211",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/1211.png",
   "edition": 1211,
@@ -7,27 +7,27 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "Red"
+      "value": "Purple"
     },
     {
       "trait_type": "Background",
-      "value": "Rocket"
+      "value": "FireBlack Sket"
     },
     {
       "trait_type": "NagaKid",
-      "value": "Pink"
+      "value": "Blue"
     },
     {
       "trait_type": "Body",
-      "value": "Blue Float"
+      "value": "Pink ScarfPattern"
     },
     {
       "trait_type": "Mouse",
-      "value": "Frighten"
+      "value": "Scowl"
     },
     {
       "trait_type": "Head",
-      "value": "Bag"
+      "value": "Blue PartyHat"
     }
   ]
 }

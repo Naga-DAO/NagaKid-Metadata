@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #1018",
+  "name": "Naga Kids #1018",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/1018.png",
   "edition": 1018,
@@ -11,23 +11,23 @@
     },
     {
       "trait_type": "Background",
-      "value": "FireWhite Sket"
+      "value": "Mountain"
     },
     {
       "trait_type": "NagaKid",
-      "value": "Green"
+      "value": "Pink"
     },
     {
       "trait_type": "Body",
-      "value": "Black Hood"
+      "value": "WhiteRed Suit"
     },
     {
       "trait_type": "Mouse",
-      "value": "Stunned"
+      "value": "Scowl"
     },
     {
       "trait_type": "Head",
-      "value": "Red PartyHat"
+      "value": "Headphone"
     }
   ]
 }

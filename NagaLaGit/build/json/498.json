@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #498",
+  "name": "Naga Kids #498",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/498.png",
   "edition": 498,
@@ -11,23 +11,23 @@
     },
     {
       "trait_type": "Background",
-      "value": "Mountain"
+      "value": "Black Sket"
     },
     {
       "trait_type": "NagaKid",
-      "value": "Blue"
+      "value": "BluePurple"
     },
     {
       "trait_type": "Body",
-      "value": "Red Hood"
+      "value": "Black Shark"
     },
     {
       "trait_type": "Mouse",
-      "value": "Stunned"
+      "value": "Rainbow"
     },
     {
       "trait_type": "Head",
-      "value": "White Hair"
+      "value": "Blue PartyHat"
     }
   ]
 }

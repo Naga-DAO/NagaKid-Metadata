@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #786",
+  "name": "Naga Kids #786",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/786.png",
   "edition": 786,
@@ -11,23 +11,23 @@
     },
     {
       "trait_type": "Background",
-      "value": "Fire"
+      "value": "Mountain"
     },
     {
       "trait_type": "NagaKid",
-      "value": "Red"
+      "value": "Black"
     },
     {
       "trait_type": "Body",
-      "value": "Pink Float"
+      "value": "Yellow Scarf"
     },
     {
       "trait_type": "Mouse",
-      "value": "Laser"
+      "value": "Tongue"
     },
     {
       "trait_type": "Head",
-      "value": "Green Hair"
+      "value": "Headphone"
     }
   ]
 }

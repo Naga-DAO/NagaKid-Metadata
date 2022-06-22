@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #241",
+  "name": "Naga Kids #241",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/241.png",
   "edition": 241,
@@ -7,27 +7,27 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "DarkBlue"
+      "value": "RedPurple"
     },
     {
       "trait_type": "Background",
-      "value": "Pan"
+      "value": "Fire"
     },
     {
       "trait_type": "NagaKid",
-      "value": "Red"
+      "value": "Green"
     },
     {
       "trait_type": "Body",
-      "value": "Red Hood"
+      "value": "White Hood"
     },
     {
       "trait_type": "Mouse",
-      "value": "Laser"
+      "value": "Rainbow"
     },
     {
       "trait_type": "Head",
-      "value": "Banana Peel"
+      "value": "Checkered Kerchief"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #873",
+  "name": "Naga Kids #873",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/873.png",
   "edition": 873,
@@ -7,27 +7,27 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "Black"
+      "value": "DarkBlue"
     },
     {
       "trait_type": "Background",
-      "value": "Office"
+      "value": "Rocket"
     },
     {
       "trait_type": "NagaKid",
-      "value": "Black"
+      "value": "BluePurple"
     },
     {
       "trait_type": "Body",
-      "value": "Red Shark"
+      "value": "Yellow Scarf"
     },
     {
       "trait_type": "Mouse",
-      "value": "SpitFire"
+      "value": "Frighten"
     },
     {
       "trait_type": "Head",
-      "value": "Bag"
+      "value": "Black Cap"
     }
   ]
 }

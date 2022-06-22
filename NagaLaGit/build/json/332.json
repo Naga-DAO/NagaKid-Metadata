@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #332",
+  "name": "Naga Kids #332",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/332.png",
   "edition": 332,
@@ -7,27 +7,27 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "Yellow"
-    },
-    {
-      "trait_type": "Background",
-      "value": "Black Sket"
-    },
-    {
-      "trait_type": "NagaKid",
       "value": "White"
     },
     {
+      "trait_type": "Background",
+      "value": "Pizza"
+    },
+    {
+      "trait_type": "NagaKid",
+      "value": "BluePurple"
+    },
+    {
       "trait_type": "Body",
-      "value": "Monkey"
+      "value": "Black RainSuit"
     },
     {
       "trait_type": "Mouse",
-      "value": "Laser"
+      "value": "Frighten"
     },
     {
       "trait_type": "Head",
-      "value": "Duck"
+      "value": "Dots Kerchief"
     }
   ]
 }

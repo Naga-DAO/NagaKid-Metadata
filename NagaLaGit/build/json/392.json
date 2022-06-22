@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #392",
+  "name": "Naga Kids #392",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/392.png",
   "edition": 392,
@@ -7,27 +7,27 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "Red"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
-      "value": "Space"
+      "value": "Fire"
     },
     {
       "trait_type": "NagaKid",
-      "value": "Black"
+      "value": "Pink"
     },
     {
       "trait_type": "Body",
-      "value": "WhiteRed Suit"
+      "value": "Monkey"
     },
     {
       "trait_type": "Mouse",
-      "value": "Frighten"
+      "value": "Laser"
     },
     {
       "trait_type": "Head",
-      "value": "Black Cap"
+      "value": "Blue Hair"
     }
   ]
 }

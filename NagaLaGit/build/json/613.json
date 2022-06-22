@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #613",
+  "name": "Naga Kids #613",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/613.png",
   "edition": 613,
@@ -11,23 +11,23 @@
     },
     {
       "trait_type": "Background",
-      "value": "Space"
+      "value": "Fire"
     },
     {
       "trait_type": "NagaKid",
-      "value": "Black"
+      "value": "Pink"
     },
     {
       "trait_type": "Body",
-      "value": "Blue Shark"
+      "value": "Yellow Scarf"
     },
     {
       "trait_type": "Mouse",
-      "value": "Scowl"
+      "value": "Frighten"
     },
     {
       "trait_type": "Head",
-      "value": "MaskTop"
+      "value": "Devil Part"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #369",
+  "name": "Naga Kids #369",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/369.png",
   "edition": 369,
@@ -7,27 +7,27 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "PinkPurple"
+      "value": "Yellow"
     },
     {
       "trait_type": "Background",
-      "value": "Rocket"
+      "value": "Pizza"
     },
     {
       "trait_type": "NagaKid",
-      "value": "Blue"
+      "value": "Pink"
     },
     {
       "trait_type": "Body",
-      "value": "Black Suit"
+      "value": "Pink Float"
     },
     {
       "trait_type": "Mouse",
-      "value": "Laser"
+      "value": "Surprised"
     },
     {
       "trait_type": "Head",
-      "value": "Space Helmet"
+      "value": "Blue Cap"
     }
   ]
 }

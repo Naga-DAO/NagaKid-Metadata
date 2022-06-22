@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #619",
+  "name": "Naga Kids #619",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/619.png",
   "edition": 619,
@@ -7,27 +7,27 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "Green"
+      "value": "WhiteYellow"
     },
     {
       "trait_type": "Background",
-      "value": "Office"
+      "value": "FireWhite Sket"
     },
     {
       "trait_type": "NagaKid",
-      "value": "Red"
+      "value": "Green"
     },
     {
       "trait_type": "Body",
-      "value": "Yellow Bow"
+      "value": "Monkey"
     },
     {
       "trait_type": "Mouse",
-      "value": "Laser"
+      "value": "Smile"
     },
     {
       "trait_type": "Head",
-      "value": "Red Glasses"
+      "value": "Devil Part"
     }
   ]
 }

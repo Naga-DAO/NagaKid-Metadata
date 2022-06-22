@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #493",
+  "name": "Naga Kids #493",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/493.png",
   "edition": 493,
@@ -7,15 +7,15 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "Orange"
+      "value": "Red"
     },
     {
       "trait_type": "Background",
-      "value": "Pan"
+      "value": "Office"
     },
     {
       "trait_type": "NagaKid",
-      "value": "Blue"
+      "value": "Green"
     },
     {
       "trait_type": "Body",
@@ -27,7 +27,7 @@
     },
     {
       "trait_type": "Head",
-      "value": "Fried Egg"
+      "value": "Bag"
     }
   ]
 }

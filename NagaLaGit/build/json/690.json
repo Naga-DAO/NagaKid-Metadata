@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #690",
+  "name": "Naga Kids #690",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/690.png",
   "edition": 690,
@@ -7,27 +7,27 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "Purple"
+      "value": "PinkYellow"
     },
     {
       "trait_type": "Background",
-      "value": "Rocket"
+      "value": "FireWhite Sket"
     },
     {
       "trait_type": "NagaKid",
-      "value": "White"
+      "value": "Pink"
     },
     {
       "trait_type": "Body",
-      "value": "Pink Float"
+      "value": "Blue Hood"
     },
     {
       "trait_type": "Mouse",
-      "value": "Rainbow"
+      "value": "Frighten"
     },
     {
       "trait_type": "Head",
-      "value": "Red Cap"
+      "value": "Blue PartyHat"
     }
   ]
 }

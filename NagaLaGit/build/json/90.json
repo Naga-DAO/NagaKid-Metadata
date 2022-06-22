@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #90",
+  "name": "Naga Kids #90",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/90.png",
   "edition": 90,
@@ -7,27 +7,27 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "Black"
-    },
-    {
-      "trait_type": "Background",
-      "value": "Black Sket"
-    },
-    {
-      "trait_type": "NagaKid",
       "value": "Red"
     },
     {
+      "trait_type": "Background",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "NagaKid",
+      "value": "Pink"
+    },
+    {
       "trait_type": "Body",
-      "value": "Black Shark"
+      "value": "WhiteRed Suit"
     },
     {
       "trait_type": "Mouse",
-      "value": "Tongue"
+      "value": "Smile"
     },
     {
       "trait_type": "Head",
-      "value": "Devil Part"
+      "value": "Red Cap"
     }
   ]
 }

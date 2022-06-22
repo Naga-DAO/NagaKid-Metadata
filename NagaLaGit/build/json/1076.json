@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #1076",
+  "name": "Naga Kids #1076",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/1076.png",
   "edition": 1076,
@@ -7,11 +7,11 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "Orange"
+      "value": "Purple"
     },
     {
       "trait_type": "Background",
-      "value": "Pizza"
+      "value": "Mountain"
     },
     {
       "trait_type": "NagaKid",
@@ -19,15 +19,15 @@
     },
     {
       "trait_type": "Body",
-      "value": "Monkey"
+      "value": "Black Shark"
     },
     {
       "trait_type": "Mouse",
-      "value": "Surprised"
+      "value": "Tremble"
     },
     {
       "trait_type": "Head",
-      "value": "Space Helmet"
+      "value": "Black Cap"
     }
   ]
 }

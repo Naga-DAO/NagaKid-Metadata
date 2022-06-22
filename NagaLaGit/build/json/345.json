@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #345",
+  "name": "Naga Kids #345",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/345.png",
   "edition": 345,
@@ -7,27 +7,27 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "PinkYellow"
+      "value": "Red"
     },
     {
       "trait_type": "Background",
-      "value": "Rocket"
+      "value": "Fire"
     },
     {
       "trait_type": "NagaKid",
-      "value": "BluePurple"
+      "value": "Red"
     },
     {
       "trait_type": "Body",
-      "value": "WhiteRed Suit"
+      "value": "Yellow RainSuit"
     },
     {
       "trait_type": "Mouse",
-      "value": "Smile"
+      "value": "Rainbow"
     },
     {
       "trait_type": "Head",
-      "value": "Chef"
+      "value": "Red PartyHat"
     }
   ]
 }

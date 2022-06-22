@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #763",
+  "name": "Naga Kids #763",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/763.png",
   "edition": 763,
@@ -7,27 +7,27 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "Black"
+      "value": "Green"
     },
     {
       "trait_type": "Background",
-      "value": "FireWhite Sket"
+      "value": "Office"
     },
     {
       "trait_type": "NagaKid",
-      "value": "White"
+      "value": "BluePurple"
     },
     {
       "trait_type": "Body",
-      "value": "Monkey"
+      "value": "Pink ScarfPattern"
     },
     {
       "trait_type": "Mouse",
-      "value": "Tremble"
+      "value": "Stunned"
     },
     {
       "trait_type": "Head",
-      "value": "Space Helmet"
+      "value": "Chef"
     }
   ]
 }

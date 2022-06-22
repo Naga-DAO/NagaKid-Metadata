@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #688",
+  "name": "Naga Kids #688",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/688.png",
   "edition": 688,
@@ -7,27 +7,27 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "Black"
+      "value": "Green"
     },
     {
       "trait_type": "Background",
-      "value": "Black Sket"
+      "value": "Mountain"
     },
     {
       "trait_type": "NagaKid",
-      "value": "Black"
+      "value": "Red"
     },
     {
       "trait_type": "Body",
-      "value": "Pink Scarf"
+      "value": "Red Bow"
     },
     {
       "trait_type": "Mouse",
-      "value": "SpitFire"
+      "value": "Tongue"
     },
     {
       "trait_type": "Head",
-      "value": "MaskFace"
+      "value": "Fried Egg"
     }
   ]
 }

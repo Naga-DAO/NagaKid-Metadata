@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #436",
+  "name": "Naga Kids #436",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/436.png",
   "edition": 436,
@@ -7,27 +7,27 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "Green"
-    },
-    {
-      "trait_type": "Background",
-      "value": "Office"
-    },
-    {
-      "trait_type": "NagaKid",
       "value": "Blue"
     },
     {
+      "trait_type": "Background",
+      "value": "FireBlack Sket"
+    },
+    {
+      "trait_type": "NagaKid",
+      "value": "Black"
+    },
+    {
       "trait_type": "Body",
-      "value": "Black RainSuit"
+      "value": "Black Hood"
     },
     {
       "trait_type": "Mouse",
-      "value": "Frighten"
+      "value": "Tongue"
     },
     {
       "trait_type": "Head",
-      "value": "Banana Peel"
+      "value": "Chef"
     }
   ]
 }

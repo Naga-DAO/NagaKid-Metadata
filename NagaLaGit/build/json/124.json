@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #124",
+  "name": "Naga Kids #124",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/124.png",
   "edition": 124,
@@ -7,27 +7,27 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "Green"
+      "value": "PinkYellow"
     },
     {
       "trait_type": "Background",
-      "value": "Space"
+      "value": "Pizza"
     },
     {
       "trait_type": "NagaKid",
-      "value": "Green"
+      "value": "Black"
     },
     {
       "trait_type": "Body",
-      "value": "Blue Shark"
+      "value": "Monkey"
     },
     {
       "trait_type": "Mouse",
-      "value": "Tremble"
+      "value": "Frighten"
     },
     {
       "trait_type": "Head",
-      "value": "Green Hair"
+      "value": "Hat"
     }
   ]
 }

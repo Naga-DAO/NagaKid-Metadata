@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #601",
+  "name": "Naga Kids #601",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/601.png",
   "edition": 601,
@@ -7,27 +7,27 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "Orange"
+      "value": "DarkBlue"
     },
     {
       "trait_type": "Background",
-      "value": "Space"
+      "value": "Fire"
     },
     {
       "trait_type": "NagaKid",
-      "value": "Green"
+      "value": "BluePurple"
     },
     {
       "trait_type": "Body",
-      "value": "Pink Scarf"
+      "value": "Black RainSuit"
     },
     {
       "trait_type": "Mouse",
-      "value": "SpitFire"
+      "value": "Frighten"
     },
     {
       "trait_type": "Head",
-      "value": "Headkerchief Checkered"
+      "value": "Green Hair"
     }
   ]
 }

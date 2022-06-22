@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #803",
+  "name": "Naga Kids #803",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/803.png",
   "edition": 803,
@@ -7,27 +7,27 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "PinkYellow"
+      "value": "Purple"
     },
     {
       "trait_type": "Background",
-      "value": "Black Sket"
+      "value": "FireWhite Sket"
     },
     {
       "trait_type": "NagaKid",
-      "value": "Pink"
+      "value": "Red"
     },
     {
       "trait_type": "Body",
-      "value": "Red Hood"
+      "value": "Blue Hood"
     },
     {
       "trait_type": "Mouse",
-      "value": "Tongue"
+      "value": "Scowl"
     },
     {
       "trait_type": "Head",
-      "value": "Banana Peel"
+      "value": "Red Glasses"
     }
   ]
 }

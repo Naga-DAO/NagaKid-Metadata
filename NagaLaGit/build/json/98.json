@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #98",
+  "name": "Naga Kids #98",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/98.png",
   "edition": 98,
@@ -7,27 +7,27 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "Black"
+      "value": "Red"
     },
     {
       "trait_type": "Background",
-      "value": "Mountain"
+      "value": "Black Sket"
     },
     {
       "trait_type": "NagaKid",
-      "value": "Pink"
+      "value": "Black"
     },
     {
       "trait_type": "Body",
-      "value": "Pink Scarf"
+      "value": "Blue Float"
     },
     {
       "trait_type": "Mouse",
-      "value": "Scowl"
+      "value": "Smile"
     },
     {
       "trait_type": "Head",
-      "value": "Headkerchief Dots"
+      "value": "Checkered Kerchief"
     }
   ]
 }

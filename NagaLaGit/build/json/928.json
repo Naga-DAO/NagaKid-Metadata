@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #928",
+  "name": "Naga Kids #928",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/928.png",
   "edition": 928,
@@ -7,27 +7,27 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "White"
+      "value": "PinkYellow"
     },
     {
       "trait_type": "Background",
-      "value": "Mountain"
+      "value": "Black Sket"
     },
     {
       "trait_type": "NagaKid",
-      "value": "White"
+      "value": "Green"
     },
     {
       "trait_type": "Body",
-      "value": "Blue Float"
+      "value": "Monkey"
     },
     {
       "trait_type": "Mouse",
-      "value": "Tongue"
+      "value": "SpitFire"
     },
     {
       "trait_type": "Head",
-      "value": "MaskFace"
+      "value": "Yellow PartyHat"
     }
   ]
 }

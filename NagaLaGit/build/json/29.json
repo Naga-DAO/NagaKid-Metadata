@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #29",
+  "name": "Naga Kids #29",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/29.png",
   "edition": 29,
@@ -11,15 +11,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "FriedEgg"
+      "value": "Office"
     },
     {
       "trait_type": "NagaKid",
-      "value": "BluePurple"
+      "value": "Red"
     },
     {
       "trait_type": "Body",
-      "value": "Pink Float"
+      "value": "Blue Hood"
     },
     {
       "trait_type": "Mouse",
@@ -27,7 +27,7 @@
     },
     {
       "trait_type": "Head",
-      "value": "Headkerchief Dots"
+      "value": "Space Helmet"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #188",
+  "name": "Naga Kids #188",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/188.png",
   "edition": 188,
@@ -7,11 +7,11 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "Yellow"
+      "value": "RedPurple"
     },
     {
       "trait_type": "Background",
-      "value": "Space"
+      "value": "FireWhite Sket"
     },
     {
       "trait_type": "NagaKid",
@@ -19,15 +19,15 @@
     },
     {
       "trait_type": "Body",
-      "value": "White Hood"
+      "value": "Black RainSuit"
     },
     {
       "trait_type": "Mouse",
-      "value": "Tongue"
+      "value": "Frighten"
     },
     {
       "trait_type": "Head",
-      "value": "MaskFace"
+      "value": "Checkered Kerchief"
     }
   ]
 }

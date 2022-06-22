@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #999",
+  "name": "Naga Kids #999",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/999.png",
   "edition": 999,
@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "Blue"
+      "value": "DarkBlue"
     },
     {
       "trait_type": "Background",
@@ -19,15 +19,15 @@
     },
     {
       "trait_type": "Body",
-      "value": "White Hood"
+      "value": "Yellow RainSuit"
     },
     {
       "trait_type": "Mouse",
-      "value": "Frighten"
+      "value": "Laser"
     },
     {
       "trait_type": "Head",
-      "value": "Space Helmet"
+      "value": "Black Cap"
     }
   ]
 }

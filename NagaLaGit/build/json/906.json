@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #906",
+  "name": "Naga Kids #906",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/906.png",
   "edition": 906,
@@ -11,15 +11,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "FireWhite Sket"
+      "value": "Rocket"
     },
     {
       "trait_type": "NagaKid",
-      "value": "Pink"
+      "value": "Green"
     },
     {
       "trait_type": "Body",
-      "value": "Yellow Bow"
+      "value": "Yellow Float"
     },
     {
       "trait_type": "Mouse",
@@ -27,7 +27,7 @@
     },
     {
       "trait_type": "Head",
-      "value": "Red Cap"
+      "value": "Space Helmet"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #503",
+  "name": "Naga Kids #503",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/503.png",
   "edition": 503,
@@ -11,23 +11,23 @@
     },
     {
       "trait_type": "Background",
-      "value": "Fire"
+      "value": "Black Sket"
     },
     {
       "trait_type": "NagaKid",
-      "value": "Green"
+      "value": "Red"
     },
     {
       "trait_type": "Body",
-      "value": "Monkey"
+      "value": "Red Hood"
     },
     {
       "trait_type": "Mouse",
-      "value": "Rainbow"
+      "value": "Frighten"
     },
     {
       "trait_type": "Head",
-      "value": "Red Hair"
+      "value": "Green Hair"
     }
   ]
 }

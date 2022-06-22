@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #1026",
+  "name": "Naga Kids #1026",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/1026.png",
   "edition": 1026,
@@ -11,23 +11,23 @@
     },
     {
       "trait_type": "Background",
-      "value": "Mountain"
+      "value": "Office"
     },
     {
       "trait_type": "NagaKid",
-      "value": "Black"
+      "value": "Green"
     },
     {
       "trait_type": "Body",
-      "value": "Yellow Float"
+      "value": "WhiteRed Suit"
     },
     {
       "trait_type": "Mouse",
-      "value": "Stunned"
+      "value": "Rainbow"
     },
     {
       "trait_type": "Head",
-      "value": "Sunglasses"
+      "value": "White Hair"
     }
   ]
 }

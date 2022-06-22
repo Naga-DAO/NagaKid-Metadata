@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #82",
+  "name": "Naga Kids #82",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/82.png",
   "edition": 82,
@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "Orange"
+      "value": "Green"
     },
     {
       "trait_type": "Background",
@@ -15,15 +15,15 @@
     },
     {
       "trait_type": "NagaKid",
-      "value": "Red"
+      "value": "BluePurple"
     },
     {
       "trait_type": "Body",
-      "value": "WhiteRed Suit"
+      "value": "Monkey"
     },
     {
       "trait_type": "Mouse",
-      "value": "Laser"
+      "value": "Stunned"
     },
     {
       "trait_type": "Head",

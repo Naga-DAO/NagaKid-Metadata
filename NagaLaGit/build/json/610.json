@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #610",
+  "name": "Naga Kids #610",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/610.png",
   "edition": 610,
@@ -11,15 +11,15 @@
     },
     {
       "trait_type": "Background",
-      "value": "Office"
+      "value": "Mountain"
     },
     {
       "trait_type": "NagaKid",
-      "value": "BluePurple"
+      "value": "Pink"
     },
     {
       "trait_type": "Body",
-      "value": "Blue Shark"
+      "value": "Pink Scarf"
     },
     {
       "trait_type": "Mouse",
@@ -27,7 +27,7 @@
     },
     {
       "trait_type": "Head",
-      "value": "Bag"
+      "value": "Checkered Kerchief"
     }
   ]
 }

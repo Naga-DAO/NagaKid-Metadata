@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #708",
+  "name": "Naga Kids #708",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/708.png",
   "edition": 708,
@@ -7,11 +7,11 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "PinkYellow"
+      "value": "Yellow"
     },
     {
       "trait_type": "Background",
-      "value": "Space"
+      "value": "Mountain"
     },
     {
       "trait_type": "NagaKid",
@@ -19,15 +19,15 @@
     },
     {
       "trait_type": "Body",
-      "value": "Yellow Float"
+      "value": "Red Hood"
     },
     {
       "trait_type": "Mouse",
-      "value": "Tremble"
+      "value": "Frighten"
     },
     {
       "trait_type": "Head",
-      "value": "MaskTop"
+      "value": "Red Glasses"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Naga Kid #167",
+  "name": "Naga Kids #167",
   "description": "Project Naga Kid",
   "image": "ipfs://QmekM3EsLmMYUuTkdSm1zZE2NyGYpHrAj9qm2aDu9UZPxb/167.png",
   "edition": 167,
@@ -7,27 +7,27 @@
   "attributes": [
     {
       "trait_type": "Color",
-      "value": "Green"
+      "value": "PinkPurple"
     },
     {
       "trait_type": "Background",
-      "value": "Pan"
+      "value": "Rocket"
     },
     {
       "trait_type": "NagaKid",
-      "value": "Blue"
+      "value": "Black"
     },
     {
       "trait_type": "Body",
-      "value": "Yellow RainSuit"
+      "value": "White Hood"
     },
     {
       "trait_type": "Mouse",
-      "value": "Smile"
+      "value": "Tremble"
     },
     {
       "trait_type": "Head",
-      "value": "Red Hair"
+      "value": "Sapling"
     }
   ]
 }
