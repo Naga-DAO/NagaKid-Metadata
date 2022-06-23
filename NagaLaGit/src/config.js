@@ -71,11 +71,13 @@ const background = {
 };
 
 const external_url = "https://www.nagadaonft.com/";
+const seller_fee = 1000 // 10%
+const fee_recepient = ""
 
 const extraMetadata = {
     external_url: external_url,
-    // seller_fee_basis_points: 1000, // 100 = 1%
-    // fee_recipient: "0x6d644A42aCc9156437f20Ac002F1a73A74863Efa",
+    seller_fee_basis_points: seller_fee, // 100 = 1%
+    fee_recipient: fee_recepient,
 };
 
 const rarityDelimiter = "#";
@@ -117,5 +119,7 @@ module.exports = {
     solanaMetadata,
     gif,
     preview_gif,
+    seller_fee,
+    fee_recepient,
     external_url,
 };
